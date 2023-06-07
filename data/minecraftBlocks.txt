@@ -1,0 +1,1390 @@
+ 
+Air 	air 	Minecraft Air
+Void Air 	void_air 	Minecraft Void Air
+Cave Air 	cave_air 	Minecraft Cave Air
+Any Stone 	#forge:stone 	Minecraft Any Stone
+Stone 	stone 	Minecraft Stone
+Stone Stairs 	stone_stairs 	Minecraft Stone Stairs
+Stone Slab 	stone_slab 	Minecraft Stone Slab
+Granite 	granite 	Minecraft Granite
+Polished Granite 	polished_granite 	Minecraft Polished Granite
+Granite Stairs 	granite_stairs 	Minecraft Granite Stairs
+Polished Granite Stairs 	polished_granite_stairs 	Minecraft Polished Granite Stairs
+Granite Slab 	granite_slab 	Minecraft Granite Slab
+Polished Granite Slab 	polished_granite_slab 	Minecraft Polished Granite Slab
+Granite Wall 	granite_wall 	Minecraft Granite Wall
+Diorite 	diorite 	Minecraft Diorite
+Diorite Stairs 	diorite_stairs 	Minecraft Diorite Stairs
+Diorite Slab 	diorite_slab 	Minecraft Diorite Slab
+Diorite Wall 	diorite_wall 	Minecraft Diorite Wall
+Polished Diorite 	polished_diorite 	Minecraft Polished Diorite
+Polished Diorite Slab 	polished_diorite_slab 	Minecraft Polished Diorite Slab
+Polished Diorite Stairs 	polished_diorite_stairs 	Minecraft Polished Diorite Stairs
+Andesite 	andesite 	Minecraft Andesite
+Andesite Stairs 	andesite_stairs 	Minecraft Andesite Stairs
+Andesite Slab 	andesite_slab 	Minecraft Andesite Slab
+Andesite Wall 	andesite_wall 	Minecraft Andesite Wall
+Polished Andesite 	polished_andesite 	Minecraft Polished Andesite
+Polished Andesite Stairs 	polished_andesite_stairs 	Minecraft Polished Andesite Stairs
+Polished Andesite Slab 	polished_andesite_slab 	Minecraft Polished Andesite Slab
+Smooth Stone 	smooth_stone 	Minecraft Smooth Stone
+Deepslate 	deepslate 	Minecraft Deepslate
+Reinforced Deepslate 	reinforced_deepslate 	Minecraft Reinforced Deepslate
+Cobbled Deepslate 	cobbled_deepslate 	Minecraft Cobbled Deepslate
+Cobbled Deepslate Stairs 	cobbled_deepslate_stairs 	Minecraft Cobbled Deepslate Stairs
+Cobbled Deepslate Slab 	cobbled_deepslate_slab 	Minecraft Cobbled Deepslate Slab
+Cobbled Deepslate Wall 	cobbled_deepslate_wall 	Minecraft Cobbled Deepslate Wall
+Polished Deepslate 	polished_deepslate 	Minecraft Polished Deepslate
+Polished Deepslate Stairs 	polished_deepslate_stairs 	Minecraft Polished Deepslate Stairs
+Polished Deepslate Slab 	polished_deepslate_slab 	Minecraft Polished Deepslate Slab
+Polished Deepslate Wall 	polished_deepslate_wall 	Minecraft Polished Deepslate Wall
+Deepslate Tiles 	deepslate_tiles 	Minecraft Deepslate Tiles
+Deepslate Tile Stairs 	deepslate_tile_stairs 	Minecraft Deepslate Tile Stairs
+Deepslate Tile Slab 	deepslate_tile_slab 	Minecraft Deepslate Tile Slab
+Deepslate Tile Wall 	deepslate_tile_wall 	Minecraft Deepslate Tile Wall
+Deepslate Bricks 	deepslate_bricks 	Minecraft Deepslate Bricks
+Deepslate Brick Stairs 	deepslate_brick_stairs 	Minecraft Deepslate Brick Stairs
+Deepslate Brick Slab 	deepslate_brick_slab 	Minecraft Deepslate Brick Slab
+Deepslate Brick Wall 	deepslate_brick_wall 	Minecraft Deepslate Brick Wall
+Chiseled Deepslate 	chiseled_deepslate 	Minecraft Chiseled Deepslate
+Cracked Deepslate Bricks 	cracked_deepslate_bricks 	Minecraft Cracked Deepslate Bricks
+Cracked Deepslate Tiles 	cracked_deepslate_tiles 	Minecraft Cracked Deepslate Tiles
+Tuff 	tuff 	Minecraft Tuff
+Calcite 	calcite 	Minecraft Calcite
+Dripstone Block 	dripstone_block 	Minecraft Dripstone Block
+Pointed Dripstone 	pointed_dripstone 	Minecraft Pointed Dripstone
+Grass 	grass_block 	Minecraft Grass
+Grass Path 	dirt_path 	Minecraft Grass Path
+Mycelium 	mycelium 	Minecraft Mycelium
+Any Dirt 	dirt 	Minecraft Any Dirt
+Dirt 	dirt 	Minecraft Dirt
+Coarse Dirt 	coarse_dirt 	Minecraft Coarse Dirt
+Podzol 	podzol 	Minecraft Podzol
+Rooted Dirt 	rooted_dirt 	Minecraft Rooted Dirt
+Mud 	mud 	Minecraft Mud
+Packed Mud 	packed_mud 	Minecraft Packed Mud
+Mud Bricks 	mud_bricks 	Minecraft Mud Bricks
+Mud Brick Stairs 	mud_brick_stairs 	Minecraft Mud Brick Stairs
+Mud Brick Slab 	mud_brick_slab 	Minecraft Mud Brick Slab
+Mud Brick Wall 	mud_brick_wall 	Minecraft Mud Brick Wall
+Cobblestone 	cobblestone 	Minecraft Cobblestone
+Mossy Cobblestone 	mossy_cobblestone 	Minecraft Mossy Cobblestone
+Mossy Cobblestone Stairs 	mossy_cobblestone_stairs 	Minecraft Mossy Cobblestone Stairs
+Mossy Cobblestone Slab 	mossy_cobblestone_slab 	Minecraft Mossy Cobblestone Slab
+Moss Block 	moss_block 	Minecraft Moss Block
+Moss Carpet 	moss_carpet 	Minecraft Moss Carpet
+Any Planks 	#minecraft:planks 	Minecraft Any Planks
+Oak Planks 	oak_planks 	Minecraft Oak Planks
+Spruce Planks 	spruce_planks 	Minecraft Spruce Planks
+Birch Planks 	birch_planks 	Minecraft Birch Planks
+Jungle Planks 	jungle_planks 	Minecraft Jungle Planks
+Acacia Planks 	acacia_planks 	Minecraft Acacia Planks
+Dark Oak Planks 	dark_oak_planks 	Minecraft Dark Oak Planks
+Crimson Planks 	crimson_planks 	Minecraft Crimson Planks
+Warped Planks 	warped_planks 	Minecraft Warped Planks
+Mangrove Planks 	mangrove_planks 	Minecraft Mangrove Planks
+Any Sapling 	#minecraft:saplings 	Minecraft Any Sapling
+Oak Sapling 	oak_sapling 	Minecraft Oak Sapling
+Spruce Sapling 	spruce_sapling 	Minecraft Spruce Sapling
+Birch Sapling 	birch_sapling 	Minecraft Birch Sapling
+Jungle Sapling 	jungle_sapling 	Minecraft Jungle Sapling
+Acacia Sapling 	acacia_sapling 	Minecraft Acacia Sapling
+Dark Oak Sapling 	dark_oak_sapling 	Minecraft Dark Oak Sapling
+Mangrove Propagule 	mangrove_propagule 	Minecraft Mangrove Propagule
+Sugar Cane 	sugar_cane 	Minecraft Sugar Cane
+Bedrock 	bedrock 	Minecraft Bedrock
+Any Sand 	#minecraft:sand 	Minecraft Any Sand
+Sand 	sand 	Minecraft Sand
+Red Sand 	red_sand 	Minecraft Red Sand
+Gravel 	gravel 	Minecraft Gravel
+Water 	water 	Minecraft Water
+Water Still 	water 	Minecraft Water Still
+Bubble Column 	bubble_column 	Minecraft Bubble Column
+Lava 	lava 	Minecraft Lava
+Lava Still 	lava 	Minecraft Lava Still
+Magma Block 	magma_block 	Minecraft Magma Block
+Obsidian 	obsidian 	Minecraft Obsidian
+Crying Obsidian 	crying_obsidian 	Minecraft Crying Obsidian
+Blackstone 	blackstone 	Minecraft Blackstone
+Blackstone Stairs 	blackstone_stairs 	Minecraft Blackstone Stairs
+Blackstone Wall 	blackstone_wall 	Minecraft Blackstone Wall
+Blackstone Slab 	blackstone_slab 	Minecraft Blackstone Slab
+Polished Blackstone 	polished_blackstone 	Minecraft Polished Blackstone
+Polished Blackstone Bricks 	polished_blackstone_bricks 	Minecraft Polished Blackstone Bricks
+Cracked Polished Blackstone Bricks 	cracked_polished_blackstone_bricks 	Minecraft Cracked Polished Blackstone Bricks
+Chiseled Polished Blackstone 	chiseled_polished_blackstone 	Minecraft Chiseled Polished Blackstone
+Polished Blackstone Brick Slab 	polished_blackstone_brick_slab 	Minecraft Polished Blackstone Brick Slab
+Polished Blackstone Brick Stairs 	polished_blackstone_brick_stairs 	Minecraft Polished Blackstone Brick Stairs
+Polished Blackstone Brick Wall 	polished_blackstone_brick_wall 	Minecraft Polished Blackstone Brick Wall
+Polished Blackstone Stairs 	polished_blackstone_stairs 	Minecraft Polished Blackstone Stairs
+Polished Blackstone Slab 	polished_blackstone_slab 	Minecraft Polished Blackstone Slab
+Polished Blackstone Wall 	polished_blackstone_wall 	Minecraft Polished Blackstone Wall
+Coal Ore 	coal_ore 	Minecraft Coal Ore
+Iron Ore 	iron_ore 	Minecraft Iron Ore
+Redstone Ore 	redstone_ore 	Minecraft Redstone Ore
+Redstone Ore Lit 	redstone_ore 	Minecraft Redstone Ore Lit
+Gold Ore 	gold_ore 	Minecraft Gold Ore
+Lapis Lazuli Ore 	lapis_ore 	Minecraft Lapis Lazuli Ore
+Diamond Ore 	diamond_ore 	Minecraft Diamond Ore
+Emerald Ore 	emerald_ore 	Minecraft Emerald Ore
+Copper Ore 	copper_ore 	Minecraft Copper Ore
+Deepslate Coal Ore 	deepslate_coal_ore 	Minecraft Deepslate Coal Ore
+Deepslate Iron Ore 	deepslate_iron_ore 	Minecraft Deepslate Iron Ore
+Deepslate Redstone Ore 	deepslate_redstone_ore 	Minecraft Deepslate Redstone Ore
+Deepslate Gold Ore 	deepslate_gold_ore 	Minecraft Deepslate Gold Ore
+Deepslate Lapis Ore 	deepslate_lapis_ore 	Minecraft Deepslate Lapis Ore
+Deepslate Diamond Ore 	deepslate_diamond_ore 	Minecraft Deepslate Diamond Ore
+Deepslate Emerald Ore 	deepslate_emerald_ore 	Minecraft Deepslate Emerald Ore
+Deepslate Copper Ore 	deepslate_copper_ore 	Minecraft Deepslate Copper Ore
+Nether Quartz Ore 	nether_quartz_ore 	Minecraft Nether Quartz Ore
+Nether Gold Ore 	nether_gold_ore 	Minecraft Nether Gold Ore
+Gilded Blackstone 	gilded_blackstone 	Minecraft Gilded Blackstone
+Raw Iron Block 	raw_iron_block 	Minecraft Raw Iron Block
+Raw Gold Block 	raw_gold_block 	Minecraft Raw Gold Block
+Raw Copper Block 	raw_copper_block 	Minecraft Raw Copper Block
+Coal Block 	coal_block 	Minecraft Coal Block
+Iron Block 	iron_block 	Minecraft Iron Block
+Copper Block 	copper_block 	Minecraft Copper Block
+Exposed Copper 	exposed_copper 	Minecraft Exposed Copper
+Weathered Copper 	weathered_copper 	Minecraft Weathered Copper
+Oxidized Copper 	oxidized_copper 	Minecraft Oxidized Copper
+Cut Copper 	cut_copper 	Minecraft Cut Copper
+Exposed Cut Copper 	exposed_cut_copper 	Minecraft Exposed Cut Copper
+Weathered Cut Copper 	weathered_cut_copper 	Minecraft Weathered Cut Copper
+Oxidized Cut Copper 	oxidized_cut_copper 	Minecraft Oxidized Cut Copper
+Cut Copper Stairs 	cut_copper_stairs 	Minecraft Cut Copper Stairs
+Exposed Cut Copper Stairs 	exposed_cut_copper_stairs 	Minecraft Exposed Cut Copper Stairs
+Weathered Cut Copper Stairs 	weathered_cut_copper_stairs 	Minecraft Weathered Cut Copper Stairs
+Oxidized Cut Copper Stairs 	oxidized_cut_copper_stairs 	Minecraft Oxidized Cut Copper Stairs
+Cut Copper Slab 	cut_copper_slab 	Minecraft Cut Copper Slab
+Exposed Cut Copper Slab 	exposed_cut_copper_slab 	Minecraft Exposed Cut Copper Slab
+Weathered Cut Copper Slab 	weathered_cut_copper_slab 	Minecraft Weathered Cut Copper Slab
+Oxidized Cut Copper Slab 	oxidized_cut_copper_slab 	Minecraft Oxidized Cut Copper Slab
+Waxed Copper Block 	waxed_copper_block 	Minecraft Waxed Copper Block
+Waxed Exposed Copper 	waxed_exposed_copper 	Minecraft Waxed Exposed Copper
+Waxed Weathered Copper 	waxed_weathered_copper 	Minecraft Waxed Weathered Copper
+Waxed Oxidized Copper 	waxed_oxidized_copper 	Minecraft Waxed Oxidized Copper
+Waxed Cut Copper 	waxed_cut_copper 	Minecraft Waxed Cut Copper
+Waxed Exposed Cut Copper 	waxed_exposed_cut_copper 	Minecraft Waxed Exposed Cut Copper
+Waxed Weathered Cut Copper 	waxed_weathered_cut_copper 	Minecraft Waxed Weathered Cut Copper
+Waxed Oxidized Cut Copper 	waxed_oxidized_cut_copper 	Minecraft Waxed Oxidized Cut Copper
+Waxed Cut Copper Stairs 	waxed_cut_copper_stairs 	Minecraft Waxed Cut Copper Stairs
+Waxed Exposed Cut Copper Stairs 	waxed_exposed_cut_copper_stairs 	Minecraft Waxed Exposed Cut Copper Stairs
+Waxed Weathered Cut Copper Stairs 	waxed_weathered_cut_copper_stairs 	Minecraft Waxed Weathered Cut Copper Stairs
+Waxed Oxidized Cut Copper Stairs 	waxed_oxidized_cut_copper_stairs 	Minecraft Waxed Oxidized Cut Copper Stairs
+Waxed Cut Copper Slab 	waxed_cut_copper_slab 	Minecraft Waxed Cut Copper Slab
+Waxed Exposed Cut Copper Slab 	waxed_exposed_cut_copper_slab 	Minecraft Waxed Exposed Cut Copper Slab
+Waxed Weathered Cut Copper Slab 	waxed_weathered_cut_copper_slab 	Minecraft Waxed Weathered Cut Copper Slab
+Waxed Oxidized Cut Copper Slab 	waxed_oxidized_cut_copper_slab 	Minecraft Waxed Oxidized Cut Copper Slab
+Redstone Block 	redstone_block 	Minecraft Redstone Block
+Gold Block 	gold_block 	Minecraft Gold Block
+Lapis Lazuli Block 	lapis_block 	Minecraft Lapis Lazuli Block
+Diamond Block 	diamond_block 	Minecraft Diamond Block
+Emerald Block 	emerald_block 	Minecraft Emerald Block
+Netherite Block 	netherite_block 	Minecraft Netherite Block
+Any Block of Quartz 	#forge:ores/quartz 	Minecraft Any Block of Quartz
+Smooth Quartz 	smooth_quartz 	Minecraft Smooth Quartz
+Chiseled Quartz Block 	chiseled_quartz_block 	Minecraft Chiseled Quartz Block
+Pillar Quartz Block 	quartz_pillar 	Minecraft Pillar Quartz Block
+Block of Quartz 	quartz_block 	Minecraft Block of Quartz
+Quartz Bricks 	quartz_bricks 	Minecraft Quartz Bricks
+Smooth Quartz Stairs 	smooth_quartz_stairs 	Minecraft Smooth Quartz Stairs
+Smooth Quartz Slab 	smooth_quartz_slab 	Minecraft Smooth Quartz Slab
+Slime Block 	slime_block 	Minecraft Slime Block
+Ancient Debris 	ancient_debris 	Minecraft Ancient Debris
+Amethyst Block 	amethyst_block 	Minecraft Amethyst Block
+Budding Amethyst 	budding_amethyst 	Minecraft Budding Amethyst
+Amethyst Cluster 	amethyst_cluster 	Minecraft Amethyst Cluster
+Large Amethyst Bud 	large_amethyst_bud 	Minecraft Large Amethyst Bud
+Medium Amethyst Bud 	medium_amethyst_bud 	Minecraft Medium Amethyst Bud
+Small Amethyst Bud 	small_amethyst_bud 	Minecraft Small Amethyst Bud
+Oak/Spruce/Birch/Jungle Wood 	oak_log 	Minecraft Oak/Spruce/Birch/Jungle Wood
+Oak Wood 	oak_log 	Minecraft Oak Wood
+Spruce Wood 	spruce_log 	Minecraft Spruce Wood
+Birch Wood 	birch_log 	Minecraft Birch Wood
+Jungle Wood 	jungle_log 	Minecraft Jungle Wood
+Acacia/Dark Oak Wood 	acacia_log 	Minecraft Acacia/Dark Oak Wood
+Acacia Wood 	acacia_log 	Minecraft Acacia Wood
+Dark Oak Wood 	dark_oak_log 	Minecraft Dark Oak Wood
+Warped Stem 	warped_stem 	Minecraft Warped Stem
+Crimson Stem 	crimson_stem 	Minecraft Crimson Stem
+Mangrove Log 	mangrove_log 	Minecraft Mangrove Log
+Mangrove Roots 	mangrove_roots 	Minecraft Mangrove Roots
+Muddy Mangrove Roots 	muddy_mangrove_roots 	Minecraft Muddy Mangrove Roots
+Stripped Oak Log 	stripped_oak_log 	Minecraft Stripped Oak Log
+Stripped Spruce Log 	stripped_spruce_log 	Minecraft Stripped Spruce Log
+Stripped Birch Log 	stripped_birch_log 	Minecraft Stripped Birch Log
+Stripped Jungle Log 	stripped_jungle_log 	Minecraft Stripped Jungle Log
+Stripped Acacia Log 	stripped_acacia_log 	Minecraft Stripped Acacia Log
+Stripped Dark Oak Log 	stripped_dark_oak_log 	Minecraft Stripped Dark Oak Log
+Stripped Warped Stem 	stripped_warped_stem 	Minecraft Stripped Warped Stem
+Stripped Crimson Stem 	stripped_crimson_stem 	Minecraft Stripped Crimson Stem
+Stripped Mangrove Log 	stripped_mangrove_log 	Minecraft Stripped Mangrove Log
+Oak Wood 	oak_wood 	Minecraft Oak Wood
+Spruce Wood 	spruce_wood 	Minecraft Spruce Wood
+Birch Wood 	birch_wood 	Minecraft Birch Wood
+Jungle Wood 	jungle_wood 	Minecraft Jungle Wood
+Acacia Wood 	acacia_wood 	Minecraft Acacia Wood
+Dark Oak Wood 	dark_oak_wood 	Minecraft Dark Oak Wood
+Warped Hyphae 	warped_hyphae 	Minecraft Warped Hyphae
+Crimson Hyphae 	crimson_hyphae 	Minecraft Crimson Hyphae
+Mangrove Wood 	mangrove_wood 	Minecraft Mangrove Wood
+Stripped Oak Wood 	stripped_oak_wood 	Minecraft Stripped Oak Wood
+Stripped Spruce Wood 	stripped_spruce_wood 	Minecraft Stripped Spruce Wood
+Stripped Birch Wood 	stripped_birch_wood 	Minecraft Stripped Birch Wood
+Stripped Jungle Wood 	stripped_jungle_wood 	Minecraft Stripped Jungle Wood
+Stripped Acacia Wood 	stripped_acacia_wood 	Minecraft Stripped Acacia Wood
+Stripped Dark Oak Wood 	stripped_dark_oak_wood 	Minecraft Stripped Dark Oak Wood
+Stripped Warped Hyphae 	stripped_warped_hyphae 	Minecraft Stripped Warped Hyphae
+Stripped Crimson Hyphae 	stripped_crimson_hyphae 	Minecraft Stripped Crimson Hyphae
+Stripped Mangrove Wood 	stripped_mangrove_wood 	Minecraft Stripped Mangrove Wood
+Oak/Spruce/Birch/Jungle Leaves 	oak_leaves 	Minecraft Oak/Spruce/Birch/Jungle Leaves
+Oak Leaves 	oak_leaves 	Minecraft Oak Leaves
+Spruce Leaves 	spruce_leaves 	Minecraft Spruce Leaves
+Birch Leaves 	birch_leaves 	Minecraft Birch Leaves
+Jungle Leaves 	jungle_leaves 	Minecraft Jungle Leaves
+Acacia/Dark Leaves 	acacia_leaves 	Minecraft Acacia/Dark Leaves
+Acacia Leaves 	acacia_leaves 	Minecraft Acacia Leaves
+Dark Oak Leaves 	dark_oak_leaves 	Minecraft Dark Oak Leaves
+Mangrove Leaves 	mangrove_leaves 	Minecraft Mangrove Leaves
+Azalea Leaves 	azalea_leaves 	Minecraft Azalea Leaves
+Flowering Azalea Leaves 	flowering_azalea_leaves 	Minecraft Flowering Azalea Leaves
+Any Sponge 	sponge 	Minecraft Any Sponge
+Sponge 	sponge 	Minecraft Sponge
+Wet Sponge 	wet_sponge 	Minecraft Wet Sponge
+Any Sandstone 	#forge:sandstone 	Minecraft Any Sandstone
+Sandstone 	sandstone 	Minecraft Sandstone
+Chiseled Sandstone 	chiseled_sandstone 	Minecraft Chiseled Sandstone
+Cut Sandstone 	cut_sandstone 	Minecraft Cut Sandstone
+Sandstone Stairs 	sandstone_stairs 	Minecraft Sandstone Stairs
+Smooth Sandstone 	smooth_sandstone 	Minecraft Smooth Sandstone
+Smooth Sandstone Stairs 	smooth_sandstone_stairs 	Minecraft Smooth Sandstone Stairs
+Smooth Sandstone Slab 	smooth_sandstone_slab 	Minecraft Smooth Sandstone Slab
+Cut Sandstone Slab 	cut_sandstone_slab 	Minecraft Cut Sandstone Slab
+Sandstone Wall 	sandstone_wall 	Minecraft Sandstone Wall
+Any Red Sandstone 	#forge:sandstone 	Minecraft Any Red Sandstone
+Red Sandstone 	red_sandstone 	Minecraft Red Sandstone
+Chiseled Red Sandstone 	chiseled_red_sandstone 	Minecraft Chiseled Red Sandstone
+Cut Red Sandstone 	cut_red_sandstone 	Minecraft Cut Red Sandstone
+Red Sandstone Stairs 	red_sandstone_stairs 	Minecraft Red Sandstone Stairs
+Smooth Red Sandstone 	smooth_red_sandstone 	Minecraft Smooth Red Sandstone
+Smooth Red Sandstone Stairs 	smooth_red_sandstone_stairs 	Minecraft Smooth Red Sandstone Stairs
+Smooth Red Sandstone Slab 	smooth_red_sandstone_slab 	Minecraft Smooth Red Sandstone Slab
+Cut Red Sandstone Slab 	cut_red_sandstone_slab 	Minecraft Cut Red Sandstone Slab
+Red Sandstone Wall 	red_sandstone_wall 	Minecraft Red Sandstone Wall
+Note Block 	note_block 	Minecraft Note Block
+Rail 	rail 	Minecraft Rail
+Powered Rail 	powered_rail 	Minecraft Powered Rail
+Detector Rail 	detector_rail 	Minecraft Detector Rail
+Activator Rail 	activator_rail 	Minecraft Activator Rail
+White Bed 	white_bed 	Minecraft White Bed
+Orange Bed 	orange_bed 	Minecraft Orange Bed
+Magenta Bed 	magenta_bed 	Minecraft Magenta Bed
+Light Blue Bed 	light_blue_bed 	Minecraft Light Blue Bed
+Yellow Bed 	yellow_bed 	Minecraft Yellow Bed
+Lime Bed 	lime_bed 	Minecraft Lime Bed
+Pink Bed 	pink_bed 	Minecraft Pink Bed
+Gray Bed 	gray_bed 	Minecraft Gray Bed
+Light Gray Bed 	light_gray_bed 	Minecraft Light Gray Bed
+Cyan Bed 	cyan_bed 	Minecraft Cyan Bed
+Purple Bed 	purple_bed 	Minecraft Purple Bed
+Blue Bed 	blue_bed 	Minecraft Blue Bed
+Brown Bed 	brown_bed 	Minecraft Brown Bed
+Green Bed 	green_bed 	Minecraft Green Bed
+Red Bed 	red_bed 	Minecraft Red Bed
+Black Bed 	black_bed 	Minecraft Black Bed
+Cobweb 	cobweb 	Minecraft Cobweb
+Dead Bush 	dead_bush 	Minecraft Dead Bush
+Shrub/Tall Grass/Fern 	grass 	Minecraft Shrub/Tall Grass/Fern
+Shrub 	dead_bush 	Minecraft Shrub
+Tall Grass 	grass 	Minecraft Tall Grass
+Fern 	fern 	Minecraft Fern
+Piston 	piston 	Minecraft Piston
+Sticky Piston 	sticky_piston 	Minecraft Sticky Piston
+Piston Head 	piston_head 	Minecraft Piston Head
+Piston Extension 	moving_piston 	Minecraft Piston Extension
+Dandelion 	dandelion 	Minecraft Dandelion
+Any Flower 	#minecraft:small_flowers 	Minecraft Any Flower
+Poppy 	poppy 	Minecraft Poppy
+Blue Orchid 	blue_orchid 	Minecraft Blue Orchid
+Allium 	allium 	Minecraft Allium
+Azure Bluet 	azure_bluet 	Minecraft Azure Bluet
+Red Tulip 	red_tulip 	Minecraft Red Tulip
+Orange Tulip 	orange_tulip 	Minecraft Orange Tulip
+White Tulip 	white_tulip 	Minecraft White Tulip
+Pink Tulip 	pink_tulip 	Minecraft Pink Tulip
+Oxeye Daisy 	oxeye_daisy 	Minecraft Oxeye Daisy
+Cornflower 	cornflower 	Minecraft Cornflower
+Lily of the Valley 	lily_of_the_valley 	Minecraft Lily of the Valley
+Wither Rose 	wither_rose 	Minecraft Wither Rose
+Any Large Flower 	#minecraft:small_flowers 	Minecraft Any Large Flower
+Sunflower 	sunflower 	Minecraft Sunflower
+Lilac 	lilac 	Minecraft Lilac
+Double Tallgrass 	tall_grass 	Minecraft Double Tallgrass
+Large Fern 	large_fern 	Minecraft Large Fern
+Rose Bush 	rose_bush 	Minecraft Rose Bush
+Peony 	peony 	Minecraft Peony
+Brown Mushroom 	brown_mushroom 	Minecraft Brown Mushroom
+Red Mushroom 	red_mushroom 	Minecraft Red Mushroom
+Warped Fungus 	warped_fungus 	Minecraft Warped Fungus
+Crimson Fungus 	crimson_fungus 	Minecraft Crimson Fungus
+Brown Mushroom Block 	brown_mushroom_block 	Minecraft Brown Mushroom Block
+Red Mushroom Block 	red_mushroom_block 	Minecraft Red Mushroom Block
+Warped Wart Block 	warped_wart_block 	Minecraft Warped Wart Block
+Mushroom Stem 	mushroom_stem 	Minecraft Mushroom Stem
+Bricks 	bricks 	Minecraft Bricks
+Brick Wall 	brick_wall 	Minecraft Brick Wall
+TNT 	tnt 	Minecraft TNT
+Bookshelf 	bookshelf 	Minecraft Bookshelf
+Torch 	torch 	Minecraft Torch
+Wall Torch 	wall_torch 	Minecraft Wall Torch
+Soul Torch 	soul_torch 	Minecraft Soul Torch
+Soul Wall Torch 	soul_wall_torch 	Minecraft Soul Wall Torch
+Fire 	fire 	Minecraft Fire
+Soul Fire 	soul_fire 	Minecraft Soul Fire
+Lantern 	lantern 	Minecraft Lantern
+Soul Lantern 	soul_lantern 	Minecraft Soul Lantern
+Chain 	chain 	Minecraft Chain
+Campfire 	campfire 	Minecraft Campfire
+Soul Campfire 	soul_campfire 	Minecraft Soul Campfire
+Any Candle 	#minecraft:candles 	Minecraft Any Candle
+Candle 	candle 	Minecraft Candle
+White Candle 	white_candle 	Minecraft White Candle
+Orange Candle 	orange_candle 	Minecraft Orange Candle
+Magenta Candle 	magenta_candle 	Minecraft Magenta Candle
+Light Blue Candle 	light_blue_candle 	Minecraft Light Blue Candle
+Yellow Candle 	yellow_candle 	Minecraft Yellow Candle
+Lime Candle 	lime_candle 	Minecraft Lime Candle
+Pink Candle 	pink_candle 	Minecraft Pink Candle
+Gray Candle 	gray_candle 	Minecraft Gray Candle
+Light Gray Candle 	light_gray_candle 	Minecraft Light Gray Candle
+Cyan Candle 	cyan_candle 	Minecraft Cyan Candle
+Purple Candle 	purple_candle 	Minecraft Purple Candle
+Blue Candle 	blue_candle 	Minecraft Blue Candle
+Brown Candle 	brown_candle 	Minecraft Brown Candle
+Green Candle 	green_candle 	Minecraft Green Candle
+Red Candle 	red_candle 	Minecraft Red Candle
+Black Candle 	black_candle 	Minecraft Black Candle
+Light Block 	light 	Minecraft Light Block
+Mob Spawner 	spawner 	Minecraft Mob Spawner
+Oak Stairs 	oak_stairs 	Minecraft Oak Stairs
+Spruce Stairs 	spruce_stairs 	Minecraft Spruce Stairs
+Birch Stairs 	birch_stairs 	Minecraft Birch Stairs
+Jungle Stairs 	jungle_stairs 	Minecraft Jungle Stairs
+Acacia Stairs 	acacia_stairs 	Minecraft Acacia Stairs
+Dark Oak Stairs 	dark_oak_stairs 	Minecraft Dark Oak Stairs
+Crimson Stairs 	crimson_stairs 	Minecraft Crimson Stairs
+Warped Stairs 	warped_stairs 	Minecraft Warped Stairs
+Mangrove Stairs 	mangrove_stairs 	Minecraft Mangrove Stairs
+Cobblestone Stairs 	cobblestone_stairs 	Minecraft Cobblestone Stairs
+Brick Stairs 	brick_stairs 	Minecraft Brick Stairs
+Stone Brick Stairs 	stone_brick_stairs 	Minecraft Stone Brick Stairs
+Nether Brick Stairs 	nether_brick_stairs 	Minecraft Nether Brick Stairs
+Quartz Stairs 	quartz_stairs 	Minecraft Quartz Stairs
+Purpur Stairs 	purpur_stairs 	Minecraft Purpur Stairs
+Chest 	chest 	Minecraft Chest
+Trapped Chest 	trapped_chest 	Minecraft Trapped Chest
+Ender Chest 	ender_chest 	Minecraft Ender Chest
+Crafting Table 	crafting_table 	Minecraft Crafting Table
+Wheat 	wheat 	Minecraft Wheat
+Farmland 	farmland 	Minecraft Farmland
+Furnace 	furnace 	Minecraft Furnace
+Oak Sign 	oak_sign 	Minecraft Oak Sign
+Spruce Sign 	spruce_sign 	Minecraft Spruce Sign
+Birch Sign 	birch_sign 	Minecraft Birch Sign
+Acacia Sign 	acacia_sign 	Minecraft Acacia Sign
+Jungle Sign 	jungle_sign 	Minecraft Jungle Sign
+Dark Oak Sign 	dark_oak_sign 	Minecraft Dark Oak Sign
+Crimson Sign 	crimson_sign 	Minecraft Crimson Sign
+Warped Sign 	warped_sign 	Minecraft Warped Sign
+Mangrove Sign 	mangrove_sign 	Minecraft Mangrove Sign
+Oak Wall Sign 	oak_wall_sign 	Minecraft Oak Wall Sign
+Spruce Wall Sign 	spruce_wall_sign 	Minecraft Spruce Wall Sign
+Birch Wall Sign 	birch_wall_sign 	Minecraft Birch Wall Sign
+Acacia Wall Sign 	acacia_wall_sign 	Minecraft Acacia Wall Sign
+Jungle Wall Sign 	jungle_wall_sign 	Minecraft Jungle Wall Sign
+Dark Oak Wall Sign 	dark_oak_wall_sign 	Minecraft Dark Oak Wall Sign
+Crimson Wall Sign 	crimson_wall_sign 	Minecraft Crimson Wall Sign
+Warped Wall Sign 	warped_wall_sign 	Minecraft Warped Wall Sign
+Mangrove Wall Sign 	mangrove_wall_sign 	Minecraft Mangrove Wall Sign
+Oak Door 	oak_door 	Minecraft Oak Door
+Spruce Door 	spruce_door 	Minecraft Spruce Door
+Birch Door 	birch_door 	Minecraft Birch Door
+Jungle Door 	jungle_door 	Minecraft Jungle Door
+Acacia Door 	acacia_door 	Minecraft Acacia Door
+Dark Oak Door 	dark_oak_door 	Minecraft Dark Oak Door
+Crimson Door 	crimson_door 	Minecraft Crimson Door
+Warped Door 	warped_door 	Minecraft Warped Door
+Mangrove Door 	mangrove_door 	Minecraft Mangrove Door
+Iron Door 	iron_door 	Minecraft Iron Door
+Oak Trapdoor 	oak_trapdoor 	Minecraft Oak Trapdoor
+Spruce Trapdoor 	spruce_trapdoor 	Minecraft Spruce Trapdoor
+Birch Trapdoor 	birch_trapdoor 	Minecraft Birch Trapdoor
+Jungle Trapdoor 	jungle_trapdoor 	Minecraft Jungle Trapdoor
+Acacia Trapdoor 	acacia_trapdoor 	Minecraft Acacia Trapdoor
+Dark Oak Trapdoor 	dark_oak_trapdoor 	Minecraft Dark Oak Trapdoor
+Crimson Trapdoor 	crimson_trapdoor 	Minecraft Crimson Trapdoor
+Warped Trapdoor 	warped_trapdoor 	Minecraft Warped Trapdoor
+Mangrove Trapdoor 	mangrove_trapdoor 	Minecraft Mangrove Trapdoor
+Iron Trapdoor 	iron_trapdoor 	Minecraft Iron Trapdoor
+Ladder 	ladder 	Minecraft Ladder
+Lever 	lever 	Minecraft Lever
+Stone Button 	stone_button 	Minecraft Stone Button
+Polished Blackstone Button 	polished_blackstone_button 	Minecraft Polished Blackstone Button
+Oak Button 	oak_button 	Minecraft Oak Button
+Spruce Button 	spruce_button 	Minecraft Spruce Button
+Birch Button 	birch_button 	Minecraft Birch Button
+Jungle Button 	jungle_button 	Minecraft Jungle Button
+Acacia Button 	acacia_button 	Minecraft Acacia Button
+Dark Oak Button 	dark_oak_button 	Minecraft Dark Oak Button
+Crimson Button 	crimson_button 	Minecraft Crimson Button
+Warped Button 	warped_button 	Minecraft Warped Button
+Mangrove Button 	mangrove_button 	Minecraft Mangrove Button
+Oak Pressure Plate 	oak_pressure_plate 	Minecraft Oak Pressure Plate
+Spruce Pressure Plate 	spruce_pressure_plate 	Minecraft Spruce Pressure Plate
+Birch Pressure Plate 	birch_pressure_plate 	Minecraft Birch Pressure Plate
+Jungle Pressure Plate 	jungle_pressure_plate 	Minecraft Jungle Pressure Plate
+Acacia Pressure Plate 	acacia_pressure_plate 	Minecraft Acacia Pressure Plate
+Dark Oak Pressure Plate 	dark_oak_pressure_plate 	Minecraft Dark Oak Pressure Plate
+Crimson Pressure Plate 	crimson_pressure_plate 	Minecraft Crimson Pressure Plate
+Warped Pressure Plate 	warped_pressure_plate 	Minecraft Warped Pressure Plate
+Mangrove Pressure Plate 	mangrove_pressure_plate 	Minecraft Mangrove Pressure Plate
+Stone Pressure Plate 	stone_pressure_plate 	Minecraft Stone Pressure Plate
+Polished Blackstone Pressure Plate 	polished_blackstone_pressure_plate 	Minecraft Polished Blackstone Pressure Plate
+Light Weighted Pressure Plate 	light_weighted_pressure_plate 	Minecraft Light Weighted Pressure Plate
+Heavy Weighted Pressure Plate 	heavy_weighted_pressure_plate 	Minecraft Heavy Weighted Pressure Plate
+Tripwire Hook 	tripwire_hook 	Minecraft Tripwire Hook
+Tripwire 	tripwire 	Minecraft Tripwire
+Daylight Sensor 	daylight_detector 	Minecraft Daylight Sensor
+Daylight Sensor Inverted 	daylight_detector 	Minecraft Daylight Sensor Inverted
+Redstone Torch 	redstone_torch 	Minecraft Redstone Torch
+Redstone Wall Torch 	redstone_wall_torch 	Minecraft Redstone Wall Torch
+Redstone Torch (inactive) 	redstone_torch 	Minecraft Redstone Torch (inactive)
+Redstone 	redstone_wire 	Minecraft Redstone
+Redstone Repeater Block (Unpowered) 	repeater 	Minecraft Redstone Repeater Block (Unpowered)
+Redstone Repeater Block (Powered) 	repeater 	Minecraft Redstone Repeater Block (Powered)
+Redstone Comparator Block (Unpowered) 	comparator 	Minecraft Redstone Comparator Block (Unpowered)
+Redstone Comparator Block (Powered) 	comparator 	Minecraft Redstone Comparator Block (Powered)
+Redstone Lamp 	redstone_lamp 	Minecraft Redstone Lamp
+Redstone Lamp Lit 	redstone_lamp 	Minecraft Redstone Lamp Lit
+Dispenser 	dispenser 	Minecraft Dispenser
+Dropper 	dropper 	Minecraft Dropper
+Observer 	observer 	Minecraft Observer
+Hopper 	hopper 	Minecraft Hopper
+Target 	target 	Minecraft Target
+Lightning Rod 	lightning_rod 	Minecraft Lightning Rod
+Sculk Sensor 	sculk_sensor 	Minecraft Sculk Sensor
+Sculk 	sculk 	Minecraft Sculk
+Sculk Catalyst 	sculk_catalyst 	Minecraft Sculk Catalyst
+Sculk Vein 	sculk_vein 	Minecraft Sculk Vein
+Sculk Shrieker 	sculk_shrieker 	Minecraft Sculk Shrieker
+Command Block 	command_block 	Minecraft Command Block
+Command Block Repeating 	repeating_command_block 	Minecraft Command Block Repeating
+Command Block Chain 	chain_command_block 	Minecraft Command Block Chain
+Snow 	snow 	Minecraft Snow
+Snow 	snow_block 	Minecraft Snow
+Powder Snow 	powder_snow 	Minecraft Powder Snow
+Ice 	ice 	Minecraft Ice
+Packed Ice 	packed_ice 	Minecraft Packed Ice
+Frosted Ice 	frosted_ice 	Minecraft Frosted Ice
+Blue Ice 	blue_ice 	Minecraft Blue Ice
+Cactus 	cactus 	Minecraft Cactus
+Clay 	clay 	Minecraft Clay
+Jukebox 	jukebox 	Minecraft Jukebox
+Oak Fence 	oak_fence 	Minecraft Oak Fence
+Spruce Fence 	spruce_fence 	Minecraft Spruce Fence
+Birch Fence 	birch_fence 	Minecraft Birch Fence
+Jungle Fence 	jungle_fence 	Minecraft Jungle Fence
+Acacia Fence 	acacia_fence 	Minecraft Acacia Fence
+Dark Oak Fence 	dark_oak_fence 	Minecraft Dark Oak Fence
+Crimson Fence 	crimson_fence 	Minecraft Crimson Fence
+Warped Fence 	warped_fence 	Minecraft Warped Fence
+Mangrove Fence 	mangrove_fence 	Minecraft Mangrove Fence
+Oak Fence Gate 	oak_fence_gate 	Minecraft Oak Fence Gate
+Spruce Fence Gate 	spruce_fence_gate 	Minecraft Spruce Fence Gate
+Birch Fence Gate 	birch_fence_gate 	Minecraft Birch Fence Gate
+Jungle Fence Gate 	jungle_fence_gate 	Minecraft Jungle Fence Gate
+Acacia Fence Gate 	acacia_fence_gate 	Minecraft Acacia Fence Gate
+Dark Oak Fence Gate 	dark_oak_fence_gate 	Minecraft Dark Oak Fence Gate
+Crimson Fence Gate 	crimson_fence_gate 	Minecraft Crimson Fence Gate
+Warped Fence Gate 	warped_fence_gate 	Minecraft Warped Fence Gate
+Mangrove Fence Gate 	mangrove_fence_gate 	Minecraft Mangrove Fence Gate
+Nether Brick Fence 	nether_brick_fence 	Minecraft Nether Brick Fence
+Nether Bricks 	nether_bricks 	Minecraft Nether Bricks
+Chiseled Nether Bricks 	chiseled_nether_bricks 	Minecraft Chiseled Nether Bricks
+Cracked Nether Bricks 	cracked_nether_bricks 	Minecraft Cracked Nether Bricks
+Red Nether Bricks 	red_nether_bricks 	Minecraft Red Nether Bricks
+Nether Brick Wall 	nether_brick_wall 	Minecraft Nether Brick Wall
+Red Nether Brick Stairs 	red_nether_brick_stairs 	Minecraft Red Nether Brick Stairs
+Red Nether Brick Slab 	red_nether_brick_slab 	Minecraft Red Nether Brick Slab
+Red Nether Brick Wall 	red_nether_brick_wall 	Minecraft Red Nether Brick Wall
+Netherrack 	netherrack 	Minecraft Netherrack
+Warped Nylium 	warped_nylium 	Minecraft Warped Nylium
+Crimson Nylium 	crimson_nylium 	Minecraft Crimson Nylium
+Soul Sand 	soul_sand 	Minecraft Soul Sand
+Soul Soil 	soul_soil 	Minecraft Soul Soil
+Glowstone 	glowstone 	Minecraft Glowstone
+Shroomlight 	shroomlight 	Minecraft Shroomlight
+Bone Block 	bone_block 	Minecraft Bone Block
+Nether Wart 	nether_wart 	Minecraft Nether Wart
+Nether Wart Block 	nether_wart_block 	Minecraft Nether Wart Block
+Cake Block 	cake 	Minecraft Cake Block
+Any Stone Bricks 	#minecraft:stone_bricks 	Minecraft Any Stone Bricks
+Stone Bricks 	stone_bricks 	Minecraft Stone Bricks
+Stone Brick Wall 	stone_brick_wall 	Minecraft Stone Brick Wall
+Mossy Stone Bricks 	mossy_stone_bricks 	Minecraft Mossy Stone Bricks
+Mossy Stone Brick Stairs 	mossy_stone_brick_stairs 	Minecraft Mossy Stone Brick Stairs
+Mossy Stone Brick Slab 	mossy_stone_brick_slab 	Minecraft Mossy Stone Brick Slab
+Mossy Stone Brick Wall 	mossy_stone_brick_wall 	Minecraft Mossy Stone Brick Wall
+Cracked Stone Bricks 	cracked_stone_bricks 	Minecraft Cracked Stone Bricks
+Chiseled Stone Bricks 	chiseled_stone_bricks 	Minecraft Chiseled Stone Bricks
+Iron Bars 	iron_bars 	Minecraft Iron Bars
+Melon Block 	melon 	Minecraft Melon Block
+Melon Stem 	melon_stem 	Minecraft Melon Stem
+Attached Melon Stem 	attached_melon_stem 	Minecraft Attached Melon Stem
+Pumpkin 	pumpkin 	Minecraft Pumpkin
+Carved Pumpkin 	carved_pumpkin 	Minecraft Carved Pumpkin
+Jack o'Lantern 	jack_o_lantern 	Minecraft Jack o
+Pumpkin Stem 	pumpkin_stem 	Minecraft Pumpkin Stem
+Attached Pumpkin Stem 	attached_pumpkin_stem 	Minecraft Attached Pumpkin Stem
+Sweet Berry Bush 	sweet_berry_bush 	Minecraft Sweet Berry Bush
+Vines 	vine 	Minecraft Vines
+Glow Lichen 	glow_lichen 	Minecraft Glow Lichen
+Lily Pad 	lily_pad 	Minecraft Lily Pad
+Enchanting Table 	enchanting_table 	Minecraft Enchanting Table
+Brewing Stand 	brewing_stand 	Minecraft Brewing Stand
+Cauldron 	cauldron 	Minecraft Cauldron
+Water Cauldron 	water_cauldron 	Minecraft Water Cauldron
+Lava Cauldron 	lava_cauldron 	Minecraft Lava Cauldron
+Powder Snow Cauldron 	powder_snow_cauldron 	Minecraft Powder Snow Cauldron
+End Portal Block 	end_portal 	Minecraft End Portal Block
+End Portal Frame 	end_portal_frame 	Minecraft End Portal Frame
+End Gateway 	end_gateway 	Minecraft End Gateway
+End Stone 	end_stone 	Minecraft End Stone
+End Stone Bricks 	end_stone_bricks 	Minecraft End Stone Bricks
+End Stone Brick Stairs 	end_stone_brick_stairs 	Minecraft End Stone Brick Stairs
+End Stone Brick Slab 	end_stone_brick_slab 	Minecraft End Stone Brick Slab
+End Stone Brick Wall 	end_stone_brick_wall 	Minecraft End Stone Brick Wall
+End Rod 	end_rod 	Minecraft End Rod
+Purpur Block 	purpur_block 	Minecraft Purpur Block
+Purpur Pillar 	purpur_pillar 	Minecraft Purpur Pillar
+Purpur Slab 	purpur_slab 	Minecraft Purpur Slab
+Purpur Double Slab 	purpur_slab 	Minecraft Purpur Double Slab
+Beetroot 	beetroots 	Minecraft Beetroot
+Chorus Plant 	chorus_plant 	Minecraft Chorus Plant
+Chorus Flower 	chorus_flower 	Minecraft Chorus Flower
+Dragon Egg 	dragon_egg 	Minecraft Dragon Egg
+Any Monster Egg 	infested_stone 	Minecraft Any Monster Egg
+Stone Monster Egg 	infested_stone 	Minecraft Stone Monster Egg
+Cobblestone Monster Egg 	infested_cobblestone 	Minecraft Cobblestone Monster Egg
+Stone Brick Monster Egg 	infested_stone_bricks 	Minecraft Stone Brick Monster Egg
+Mossy Stone Brick Monster Egg 	infested_mossy_stone_bricks 	Minecraft Mossy Stone Brick Monster Egg
+Cracked Stone Brick Monster Egg 	infested_cracked_stone_bricks 	Minecraft Cracked Stone Brick Monster Egg
+Chiseled Stone Brick Monster Egg 	infested_chiseled_stone_bricks 	Minecraft Chiseled Stone Brick Monster Egg
+Infested Deepslate 	infested_deepslate 	Minecraft Infested Deepslate
+Any Wooden Slab 	#minecraft:wooden_slabs 	Minecraft Any Wooden Slab
+Oak Slab 	oak_slab 	Minecraft Oak Slab
+Spruce Slab 	spruce_slab 	Minecraft Spruce Slab
+Birch Slab 	birch_slab 	Minecraft Birch Slab
+Jungle Slab 	jungle_slab 	Minecraft Jungle Slab
+Acacia Slab 	acacia_slab 	Minecraft Acacia Slab
+Dark Oak Slab 	dark_oak_slab 	Minecraft Dark Oak Slab
+Crimson Slab 	crimson_slab 	Minecraft Crimson Slab
+Warped Slab 	warped_slab 	Minecraft Warped Slab
+Mangrove Slab 	mangrove_slab 	Minecraft Mangrove Slab
+Any Stone Slab 	#minecraft:slabs 	Minecraft Any Stone Slab
+Smooth Stone Slab 	smooth_stone_slab 	Minecraft Smooth Stone Slab
+Sandstone Slab 	sandstone_slab 	Minecraft Sandstone Slab
+Petrified Wooden Slab 	petrified_oak_slab 	Minecraft Petrified Wooden Slab
+Cobblestone Slab 	cobblestone_slab 	Minecraft Cobblestone Slab
+Bricks Slab 	brick_slab 	Minecraft Bricks Slab
+Stone Brick Slab 	stone_brick_slab 	Minecraft Stone Brick Slab
+Nether Brick Slab 	nether_brick_slab 	Minecraft Nether Brick Slab
+Quartz Slab 	quartz_slab 	Minecraft Quartz Slab
+Red Sandstone Slab 	red_sandstone_slab 	Minecraft Red Sandstone Slab
+Cocoa Block 	cocoa 	Minecraft Cocoa Block
+Nether Portal Block 	nether_portal 	Minecraft Nether Portal Block
+Any Anvil 	#minecraft:anvil 	Minecraft Any Anvil
+Anvil 	anvil 	Minecraft Anvil
+Chipped Anvil 	chipped_anvil 	Minecraft Chipped Anvil
+Damaged Anvil 	damaged_anvil 	Minecraft Damaged Anvil
+Beacon 	beacon 	Minecraft Beacon
+Any Cobblestone Wall 	#minecraft:walls 	Minecraft Any Cobblestone Wall
+Cobblestone Wall 	cobblestone_wall 	Minecraft Cobblestone Wall
+Mossy Cobblestone Wall 	mossy_cobblestone_wall 	Minecraft Mossy Cobblestone Wall
+Flower Pot 	flower_pot 	Minecraft Flower Pot
+Potted Oak Sapling 	potted_oak_sapling 	Minecraft Potted Oak Sapling
+Potted Spruce Sapling 	potted_spruce_sapling 	Minecraft Potted Spruce Sapling
+Potted Birch Sapling 	potted_birch_sapling 	Minecraft Potted Birch Sapling
+Potted Jungle Sapling 	potted_jungle_sapling 	Minecraft Potted Jungle Sapling
+Potted Acacia Sapling 	potted_acacia_sapling 	Minecraft Potted Acacia Sapling
+Potted Dark Oak Sapling 	potted_dark_oak_sapling 	Minecraft Potted Dark Oak Sapling
+Potted Mangrove Propagule 	potted_mangrove_propagule 	Minecraft Potted Mangrove Propagule
+Potted Fern 	potted_fern 	Minecraft Potted Fern
+Potted Dandelion 	potted_dandelion 	Minecraft Potted Dandelion
+Potted Poppy 	potted_poppy 	Minecraft Potted Poppy
+Potted Blue Orchid 	potted_blue_orchid 	Minecraft Potted Blue Orchid
+Potted Allium 	potted_allium 	Minecraft Potted Allium
+Potted Azure Bluet 	potted_azure_bluet 	Minecraft Potted Azure Bluet
+Potted Red Tulip 	potted_red_tulip 	Minecraft Potted Red Tulip
+Potted Orange Tulip 	potted_orange_tulip 	Minecraft Potted Orange Tulip
+Potted White Tulip 	potted_white_tulip 	Minecraft Potted White Tulip
+Potted Pink Tulip 	potted_pink_tulip 	Minecraft Potted Pink Tulip
+Potted Oxeye Daisy 	potted_oxeye_daisy 	Minecraft Potted Oxeye Daisy
+Potted Cornflower 	potted_cornflower 	Minecraft Potted Cornflower
+Potted Lily Of The Valley 	potted_lily_of_the_valley 	Minecraft Potted Lily Of The Valley
+Potted Wither Rose 	potted_wither_rose 	Minecraft Potted Wither Rose
+Potted Red Mushroom 	potted_red_mushroom 	Minecraft Potted Red Mushroom
+Potted Brown Mushroom 	potted_brown_mushroom 	Minecraft Potted Brown Mushroom
+Potted Dead Bush 	potted_dead_bush 	Minecraft Potted Dead Bush
+Potted Cactus 	potted_cactus 	Minecraft Potted Cactus
+Potted Bamboo 	potted_bamboo 	Minecraft Potted Bamboo
+Potted Crimson Fungus 	potted_crimson_fungus 	Minecraft Potted Crimson Fungus
+Potted Warped Fungus 	potted_warped_fungus 	Minecraft Potted Warped Fungus
+Potted Crimson Roots 	potted_crimson_roots 	Minecraft Potted Crimson Roots
+Potted Warped Roots 	potted_warped_roots 	Minecraft Potted Warped Roots
+Potted Azalea Bush 	potted_azalea_bush 	Minecraft Potted Azalea Bush
+Potted Flowering Azalea Bush 	potted_flowering_azalea_bush 	Minecraft Potted Flowering Azalea Bush
+Carrots Plant Block 	carrots 	Minecraft Carrots Plant Block
+Potatoes Plant Block 	potatoes 	Minecraft Potatoes Plant Block
+Hay Block 	hay_block 	Minecraft Hay Block
+Any Skull 	#forge:heads 	Minecraft Any Skull
+Skeleton Skull 	skeleton_skull 	Minecraft Skeleton Skull
+Wither Skeleton Skull 	wither_skeleton_skull 	Minecraft Wither Skeleton Skull
+Zombie Head 	zombie_head 	Minecraft Zombie Head
+Head 	player_head 	Minecraft Head
+Creeper Head 	creeper_head 	Minecraft Creeper Head
+Dragon Head 	dragon_head 	Minecraft Dragon Head
+Skeleton Wall Skull 	skeleton_wall_skull 	Minecraft Skeleton Wall Skull
+Wither Skeleton Wall Skull 	wither_skeleton_wall_skull 	Minecraft Wither Skeleton Wall Skull
+Zombie Wall Head 	zombie_wall_head 	Minecraft Zombie Wall Head
+Player Wall Head 	player_wall_head 	Minecraft Player Wall Head
+Creeper Wall Head 	creeper_wall_head 	Minecraft Creeper Wall Head
+Dragon Wall Head 	dragon_wall_head 	Minecraft Dragon Wall Head
+Any Wool 	#minecraft:wool 	Minecraft Any Wool
+White Wool 	white_wool 	Minecraft White Wool
+Orange Wool 	orange_wool 	Minecraft Orange Wool
+Magenta Wool 	magenta_wool 	Minecraft Magenta Wool
+Light Blue Wool 	light_blue_wool 	Minecraft Light Blue Wool
+Yellow Wool 	yellow_wool 	Minecraft Yellow Wool
+Lime Wool 	lime_wool 	Minecraft Lime Wool
+Pink Wool 	pink_wool 	Minecraft Pink Wool
+Gray Wool 	gray_wool 	Minecraft Gray Wool
+Light Gray Wool 	light_gray_wool 	Minecraft Light Gray Wool
+Cyan Wool 	cyan_wool 	Minecraft Cyan Wool
+Purple Wool 	purple_wool 	Minecraft Purple Wool
+Blue Wool 	blue_wool 	Minecraft Blue Wool
+Brown Wool 	brown_wool 	Minecraft Brown Wool
+Green Wool 	green_wool 	Minecraft Green Wool
+Red Wool 	red_wool 	Minecraft Red Wool
+Black Wool 	black_wool 	Minecraft Black Wool
+Hardened Clay 	terracotta 	Minecraft Hardened Clay
+Terracotta 	white_terracotta 	Minecraft Terracotta
+White Terracotta 	white_terracotta 	Minecraft White Terracotta
+Orange Terracotta 	orange_terracotta 	Minecraft Orange Terracotta
+Magenta Terracotta 	magenta_terracotta 	Minecraft Magenta Terracotta
+Light Blue Terracotta 	light_blue_terracotta 	Minecraft Light Blue Terracotta
+Yellow Terracotta 	yellow_terracotta 	Minecraft Yellow Terracotta
+Lime Terracotta 	lime_terracotta 	Minecraft Lime Terracotta
+Pink Terracotta 	pink_terracotta 	Minecraft Pink Terracotta
+Gray Terracotta 	gray_terracotta 	Minecraft Gray Terracotta
+Light Gray Terracotta 	light_gray_terracotta 	Minecraft Light Gray Terracotta
+Cyan Terracotta 	cyan_terracotta 	Minecraft Cyan Terracotta
+Purple Terracotta 	purple_terracotta 	Minecraft Purple Terracotta
+Blue Terracotta 	blue_terracotta 	Minecraft Blue Terracotta
+Brown Terracotta 	brown_terracotta 	Minecraft Brown Terracotta
+Green Terracotta 	green_terracotta 	Minecraft Green Terracotta
+Red Terracotta 	red_terracotta 	Minecraft Red Terracotta
+Black Terracotta 	black_terracotta 	Minecraft Black Terracotta
+White Glazed Terracotta 	white_glazed_terracotta 	Minecraft White Glazed Terracotta
+Orange Glazed Terracotta 	orange_glazed_terracotta 	Minecraft Orange Glazed Terracotta
+Magenta Glazed Terracotta 	magenta_glazed_terracotta 	Minecraft Magenta Glazed Terracotta
+Light Blue Glazed Terracotta 	light_blue_glazed_terracotta 	Minecraft Light Blue Glazed Terracotta
+Yellow Glazed Terracotta 	yellow_glazed_terracotta 	Minecraft Yellow Glazed Terracotta
+Lime Glazed Terracotta 	lime_glazed_terracotta 	Minecraft Lime Glazed Terracotta
+Pink Glazed Terracotta 	pink_glazed_terracotta 	Minecraft Pink Glazed Terracotta
+Gray Glazed Terracotta 	gray_glazed_terracotta 	Minecraft Gray Glazed Terracotta
+Silver Glazed Terracotta 	light_gray_glazed_terracotta 	Minecraft Silver Glazed Terracotta
+Cyan Glazed Terracotta 	cyan_glazed_terracotta 	Minecraft Cyan Glazed Terracotta
+Purple Glazed Terracotta 	purple_glazed_terracotta 	Minecraft Purple Glazed Terracotta
+Blue Glazed Terracotta 	blue_glazed_terracotta 	Minecraft Blue Glazed Terracotta
+Brown Glazed Terracotta 	brown_glazed_terracotta 	Minecraft Brown Glazed Terracotta
+Green Glazed Terracotta 	green_glazed_terracotta 	Minecraft Green Glazed Terracotta
+Red Glazed Terracotta 	red_glazed_terracotta 	Minecraft Red Glazed Terracotta
+Black Glazed Terracotta 	black_glazed_terracotta 	Minecraft Black Glazed Terracotta
+Any Concrete Powder 	white_concrete_powder 	Minecraft Any Concrete Powder
+White Concrete Powder 	white_concrete_powder 	Minecraft White Concrete Powder
+Orange Concrete Powder 	orange_concrete_powder 	Minecraft Orange Concrete Powder
+Magenta Concrete Powder 	magenta_concrete_powder 	Minecraft Magenta Concrete Powder
+Light Blue Concrete Powder 	light_blue_concrete_powder 	Minecraft Light Blue Concrete Powder
+Yellow Concrete Powder 	yellow_concrete_powder 	Minecraft Yellow Concrete Powder
+Lime Concrete Powder 	lime_concrete_powder 	Minecraft Lime Concrete Powder
+Pink Concrete Powder 	pink_concrete_powder 	Minecraft Pink Concrete Powder
+Gray Concrete Powder 	gray_concrete_powder 	Minecraft Gray Concrete Powder
+Light Gray Concrete Powder 	light_gray_concrete_powder 	Minecraft Light Gray Concrete Powder
+Cyan Concrete Powder 	cyan_concrete_powder 	Minecraft Cyan Concrete Powder
+Purple Concrete Powder 	purple_concrete_powder 	Minecraft Purple Concrete Powder
+Blue Concrete Powder 	blue_concrete_powder 	Minecraft Blue Concrete Powder
+Brown Concrete Powder 	brown_concrete_powder 	Minecraft Brown Concrete Powder
+Green Concrete Powder 	green_concrete_powder 	Minecraft Green Concrete Powder
+Red Concrete Powder 	red_concrete_powder 	Minecraft Red Concrete Powder
+Black Concrete Powder 	black_concrete_powder 	Minecraft Black Concrete Powder
+Any Concrete 	white_concrete 	Minecraft Any Concrete
+White Concrete 	white_concrete 	Minecraft White Concrete
+Orange Concrete 	orange_concrete 	Minecraft Orange Concrete
+Magenta Concrete 	magenta_concrete 	Minecraft Magenta Concrete
+Light Blue Concrete 	light_blue_concrete 	Minecraft Light Blue Concrete
+Yellow Concrete 	yellow_concrete 	Minecraft Yellow Concrete
+Lime Concrete 	lime_concrete 	Minecraft Lime Concrete
+Pink Concrete 	pink_concrete 	Minecraft Pink Concrete
+Gray Concrete 	gray_concrete 	Minecraft Gray Concrete
+Light Gray Concrete 	light_gray_concrete 	Minecraft Light Gray Concrete
+Cyan Concrete 	cyan_concrete 	Minecraft Cyan Concrete
+Purple Concrete 	purple_concrete 	Minecraft Purple Concrete
+Blue Concrete 	blue_concrete 	Minecraft Blue Concrete
+Brown Concrete 	brown_concrete 	Minecraft Brown Concrete
+Green Concrete 	green_concrete 	Minecraft Green Concrete
+Red Concrete 	red_concrete 	Minecraft Red Concrete
+Black Concrete 	black_concrete 	Minecraft Black Concrete
+Any Carpet 	#minecraft:carpets 	Minecraft Any Carpet
+White Carpet 	white_carpet 	Minecraft White Carpet
+Orange Carpet 	orange_carpet 	Minecraft Orange Carpet
+Magenta Carpet 	magenta_carpet 	Minecraft Magenta Carpet
+Light Blue Carpet 	light_blue_carpet 	Minecraft Light Blue Carpet
+Yellow Carpet 	yellow_carpet 	Minecraft Yellow Carpet
+Lime Carpet 	lime_carpet 	Minecraft Lime Carpet
+Pink Carpet 	pink_carpet 	Minecraft Pink Carpet
+Gray Carpet 	gray_carpet 	Minecraft Gray Carpet
+Light Gray Carpet 	light_gray_carpet 	Minecraft Light Gray Carpet
+Cyan Carpet 	cyan_carpet 	Minecraft Cyan Carpet
+Purple Carpet 	purple_carpet 	Minecraft Purple Carpet
+Blue Carpet 	blue_carpet 	Minecraft Blue Carpet
+Brown Carpet 	brown_carpet 	Minecraft Brown Carpet
+Green Carpet 	green_carpet 	Minecraft Green Carpet
+Red Carpet 	red_carpet 	Minecraft Red Carpet
+Black Carpet 	black_carpet 	Minecraft Black Carpet
+Glass 	glass 	Minecraft Glass
+Tinted Glass 	tinted_glass 	Minecraft Tinted Glass
+Any Stained Glass 	#forge:stained_glass 	Minecraft Any Stained Glass
+White Stained Glass 	white_stained_glass 	Minecraft White Stained Glass
+Orange Stained Glass 	orange_stained_glass 	Minecraft Orange Stained Glass
+Magenta Stained Glass 	magenta_stained_glass 	Minecraft Magenta Stained Glass
+Light Blue Stained Glass 	light_blue_stained_glass 	Minecraft Light Blue Stained Glass
+Yellow Stained Glass 	yellow_stained_glass 	Minecraft Yellow Stained Glass
+Lime Stained Glass 	lime_stained_glass 	Minecraft Lime Stained Glass
+Pink Stained Glass 	pink_stained_glass 	Minecraft Pink Stained Glass
+Gray Stained Glass 	gray_stained_glass 	Minecraft Gray Stained Glass
+Light Gray Stained Glass 	light_gray_stained_glass 	Minecraft Light Gray Stained Glass
+Cyan Stained Glass 	cyan_stained_glass 	Minecraft Cyan Stained Glass
+Purple Stained Glass 	purple_stained_glass 	Minecraft Purple Stained Glass
+Blue Stained Glass 	blue_stained_glass 	Minecraft Blue Stained Glass
+Brown Stained Glass 	brown_stained_glass 	Minecraft Brown Stained Glass
+Green Stained Glass 	green_stained_glass 	Minecraft Green Stained Glass
+Red Stained Glass 	red_stained_glass 	Minecraft Red Stained Glass
+Black Stained Glass 	black_stained_glass 	Minecraft Black Stained Glass
+Glass Pane 	glass_pane 	Minecraft Glass Pane
+Any Stained Glass Pane 	#forge:stained_glass_panes 	Minecraft Any Stained Glass Pane
+White Stained Glass Pane 	white_stained_glass_pane 	Minecraft White Stained Glass Pane
+Orange Stained Glass Pane 	orange_stained_glass_pane 	Minecraft Orange Stained Glass Pane
+Magenta Stained Glass Pane 	magenta_stained_glass_pane 	Minecraft Magenta Stained Glass Pane
+Light Blue Stained Glass Pane 	light_blue_stained_glass_pane 	Minecraft Light Blue Stained Glass Pane
+Yellow Stained Glass Pane 	yellow_stained_glass_pane 	Minecraft Yellow Stained Glass Pane
+Lime Stained Glass Pane 	lime_stained_glass_pane 	Minecraft Lime Stained Glass Pane
+Pink Stained Glass Pane 	pink_stained_glass_pane 	Minecraft Pink Stained Glass Pane
+Gray Stained Glass Pane 	gray_stained_glass_pane 	Minecraft Gray Stained Glass Pane
+Light Gray Stained Glass Pane 	light_gray_stained_glass_pane 	Minecraft Light Gray Stained Glass Pane
+Cyan Stained Glass Pane 	cyan_stained_glass_pane 	Minecraft Cyan Stained Glass Pane
+Purple Stained Glass Pane 	purple_stained_glass_pane 	Minecraft Purple Stained Glass Pane
+Blue Stained Glass Pane 	blue_stained_glass_pane 	Minecraft Blue Stained Glass Pane
+Brown Stained Glass Pane 	brown_stained_glass_pane 	Minecraft Brown Stained Glass Pane
+Green Stained Glass Pane 	green_stained_glass_pane 	Minecraft Green Stained Glass Pane
+Red Stained Glass Pane 	red_stained_glass_pane 	Minecraft Red Stained Glass Pane
+Black Stained Glass Pane 	black_stained_glass_pane 	Minecraft Black Stained Glass Pane
+Sea Lantern 	sea_lantern 	Minecraft Sea Lantern
+Any Prismarine 	prismarine 	Minecraft Any Prismarine
+Prismarine 	prismarine 	Minecraft Prismarine
+Prismarine Bricks 	prismarine_bricks 	Minecraft Prismarine Bricks
+Dark Prismarine 	dark_prismarine 	Minecraft Dark Prismarine
+Prismarine Stairs 	prismarine_stairs 	Minecraft Prismarine Stairs
+Prismarine Brick Stairs 	prismarine_brick_stairs 	Minecraft Prismarine Brick Stairs
+Dark Prismarine Stairs 	dark_prismarine_stairs 	Minecraft Dark Prismarine Stairs
+Prismarine Slab 	prismarine_slab 	Minecraft Prismarine Slab
+Prismarine Brick Slab 	prismarine_brick_slab 	Minecraft Prismarine Brick Slab
+Dark Prismarine Slab 	dark_prismarine_slab 	Minecraft Dark Prismarine Slab
+Prismarine Wall 	prismarine_wall 	Minecraft Prismarine Wall
+Shulker Box 	shulker_box 	Minecraft Shulker Box
+White Shulker Box 	white_shulker_box 	Minecraft White Shulker Box
+Orange Shulker Box 	orange_shulker_box 	Minecraft Orange Shulker Box
+Magenta Shulker Box 	magenta_shulker_box 	Minecraft Magenta Shulker Box
+Light Blue Shulker Box 	light_blue_shulker_box 	Minecraft Light Blue Shulker Box
+Yellow Shulker Box 	yellow_shulker_box 	Minecraft Yellow Shulker Box
+Lime Shulker Box 	lime_shulker_box 	Minecraft Lime Shulker Box
+Pink Shulker Box 	pink_shulker_box 	Minecraft Pink Shulker Box
+Gray Shulker Box 	gray_shulker_box 	Minecraft Gray Shulker Box
+Light Gray Shulker Box 	light_gray_shulker_box 	Minecraft Light Gray Shulker Box
+Cyan Shulker Box 	cyan_shulker_box 	Minecraft Cyan Shulker Box
+Purple Shulker Box 	purple_shulker_box 	Minecraft Purple Shulker Box
+Blue Shulker Box 	blue_shulker_box 	Minecraft Blue Shulker Box
+Brown Shulker Box 	brown_shulker_box 	Minecraft Brown Shulker Box
+Green Shulker Box 	green_shulker_box 	Minecraft Green Shulker Box
+Red Shulker Box 	red_shulker_box 	Minecraft Red Shulker Box
+Black Shulker Box 	black_shulker_box 	Minecraft Black Shulker Box
+Standing Banner 	white_banner 	Minecraft Standing Banner
+White Banner 	white_banner 	Minecraft White Banner
+Orange Banner 	orange_banner 	Minecraft Orange Banner
+Magenta Banner 	magenta_banner 	Minecraft Magenta Banner
+Light Blue Banner 	light_blue_banner 	Minecraft Light Blue Banner
+Yellow Banner 	yellow_banner 	Minecraft Yellow Banner
+Lime Banner 	lime_banner 	Minecraft Lime Banner
+Pink Banner 	pink_banner 	Minecraft Pink Banner
+Gray Banner 	gray_banner 	Minecraft Gray Banner
+Light Gray Banner 	light_gray_banner 	Minecraft Light Gray Banner
+Cyan Banner 	cyan_banner 	Minecraft Cyan Banner
+Purple Banner 	purple_banner 	Minecraft Purple Banner
+Blue Banner 	blue_banner 	Minecraft Blue Banner
+Brown Banner 	brown_banner 	Minecraft Brown Banner
+Green Banner 	green_banner 	Minecraft Green Banner
+Red Banner 	red_banner 	Minecraft Red Banner
+Black Banner 	black_banner 	Minecraft Black Banner
+Wall Banner 	white_wall_banner 	Minecraft Wall Banner
+White Wall Banner 	white_wall_banner 	Minecraft White Wall Banner
+Orange Wall Banner 	orange_wall_banner 	Minecraft Orange Wall Banner
+Magenta Wall Banner 	magenta_wall_banner 	Minecraft Magenta Wall Banner
+Light Blue Wall Banner 	light_blue_wall_banner 	Minecraft Light Blue Wall Banner
+Yellow Wall Banner 	yellow_wall_banner 	Minecraft Yellow Wall Banner
+Lime Wall Banner 	lime_wall_banner 	Minecraft Lime Wall Banner
+Pink Wall Banner 	pink_wall_banner 	Minecraft Pink Wall Banner
+Gray Wall Banner 	gray_wall_banner 	Minecraft Gray Wall Banner
+Light Gray Wall Banner 	light_gray_wall_banner 	Minecraft Light Gray Wall Banner
+Cyan Wall Banner 	cyan_wall_banner 	Minecraft Cyan Wall Banner
+Purple Wall Banner 	purple_wall_banner 	Minecraft Purple Wall Banner
+Blue Wall Banner 	blue_wall_banner 	Minecraft Blue Wall Banner
+Brown Wall Banner 	brown_wall_banner 	Minecraft Brown Wall Banner
+Green Wall Banner 	green_wall_banner 	Minecraft Green Wall Banner
+Red Wall Banner 	red_wall_banner 	Minecraft Red Wall Banner
+Black Wall Banner 	black_wall_banner 	Minecraft Black Wall Banner
+Barrier 	barrier 	Minecraft Barrier
+Structure Void 	structure_void 	Minecraft Structure Void
+Structure Block 	structure_block 	Minecraft Structure Block
+Structure Block (Data) 	structure_block 	Minecraft Structure Block (Data)
+Structure Block (Save) 	structure_block 	Minecraft Structure Block (Save)
+Structure Block (Load) 	structure_block 	Minecraft Structure Block (Load)
+Structure Block (Corner) 	structure_block 	Minecraft Structure Block (Corner)
+Jigsaw 	jigsaw 	Minecraft Jigsaw
+Kelp 	kelp 	Minecraft Kelp
+Kelp Plant 	kelp_plant 	Minecraft Kelp Plant
+Seagrass 	seagrass 	Minecraft Seagrass
+Tall Seagrass 	tall_seagrass 	Minecraft Tall Seagrass
+Sea Pickle 	sea_pickle 	Minecraft Sea Pickle
+Turtle Egg 	turtle_egg 	Minecraft Turtle Egg
+Bamboo Sapling 	bamboo_sapling 	Minecraft Bamboo Sapling
+Bamboo 	bamboo 	Minecraft Bamboo
+Dead Tube Coral Block 	dead_tube_coral_block 	Minecraft Dead Tube Coral Block
+Dead Brain Coral Block 	dead_brain_coral_block 	Minecraft Dead Brain Coral Block
+Dead Bubble Coral Block 	dead_bubble_coral_block 	Minecraft Dead Bubble Coral Block
+Dead Fire Coral Block 	dead_fire_coral_block 	Minecraft Dead Fire Coral Block
+Dead Horn Coral Block 	dead_horn_coral_block 	Minecraft Dead Horn Coral Block
+Tube Coral Block 	tube_coral_block 	Minecraft Tube Coral Block
+Brain Coral Block 	brain_coral_block 	Minecraft Brain Coral Block
+Bubble Coral Block 	bubble_coral_block 	Minecraft Bubble Coral Block
+Fire Coral Block 	fire_coral_block 	Minecraft Fire Coral Block
+Horn Coral Block 	horn_coral_block 	Minecraft Horn Coral Block
+Dead Tube Coral 	dead_tube_coral 	Minecraft Dead Tube Coral
+Dead Brain Coral 	dead_brain_coral 	Minecraft Dead Brain Coral
+Dead Bubble Coral 	dead_bubble_coral 	Minecraft Dead Bubble Coral
+Dead Fire Coral 	dead_fire_coral 	Minecraft Dead Fire Coral
+Dead Horn Coral 	dead_horn_coral 	Minecraft Dead Horn Coral
+Tube Coral 	tube_coral 	Minecraft Tube Coral
+Brain Coral 	brain_coral 	Minecraft Brain Coral
+Bubble Coral 	bubble_coral 	Minecraft Bubble Coral
+Fire Coral 	fire_coral 	Minecraft Fire Coral
+Horn Coral 	horn_coral 	Minecraft Horn Coral
+Dead Tube Coral Fan 	dead_tube_coral_fan 	Minecraft Dead Tube Coral Fan
+Dead Brain Coral Fan 	dead_brain_coral_fan 	Minecraft Dead Brain Coral Fan
+Dead Bubble Coral Fan 	dead_bubble_coral_fan 	Minecraft Dead Bubble Coral Fan
+Dead Fire Coral Fan 	dead_fire_coral_fan 	Minecraft Dead Fire Coral Fan
+Dead Horn Coral Fan 	dead_horn_coral_fan 	Minecraft Dead Horn Coral Fan
+Tube Coral Fan 	tube_coral_fan 	Minecraft Tube Coral Fan
+Brain Coral Fan 	brain_coral_fan 	Minecraft Brain Coral Fan
+Bubble Coral Fan 	bubble_coral_fan 	Minecraft Bubble Coral Fan
+Fire Coral Fan 	fire_coral_fan 	Minecraft Fire Coral Fan
+Horn Coral Fan 	horn_coral_fan 	Minecraft Horn Coral Fan
+Dead Tube Coral Wall Fan 	dead_tube_coral_wall_fan 	Minecraft Dead Tube Coral Wall Fan
+Dead Brain Coral Wall Fan 	dead_brain_coral_wall_fan 	Minecraft Dead Brain Coral Wall Fan
+Dead Bubble Coral Wall Fan 	dead_bubble_coral_wall_fan 	Minecraft Dead Bubble Coral Wall Fan
+Dead Fire Coral Wall Fan 	dead_fire_coral_wall_fan 	Minecraft Dead Fire Coral Wall Fan
+Dead Horn Coral Wall Fan 	dead_horn_coral_wall_fan 	Minecraft Dead Horn Coral Wall Fan
+Tube Coral Wall Fan 	tube_coral_wall_fan 	Minecraft Tube Coral Wall Fan
+Brain Coral Wall Fan 	brain_coral_wall_fan 	Minecraft Brain Coral Wall Fan
+Bubble Coral Wall Fan 	bubble_coral_wall_fan 	Minecraft Bubble Coral Wall Fan
+Fire Coral Wall Fan 	fire_coral_wall_fan 	Minecraft Fire Coral Wall Fan
+Horn Coral Wall Fan 	horn_coral_wall_fan 	Minecraft Horn Coral Wall Fan
+Dried Kelp Block 	dried_kelp_block 	Minecraft Dried Kelp Block
+Conduit 	conduit 	Minecraft Conduit
+Scaffolding 	scaffolding 	Minecraft Scaffolding
+Bell 	bell 	Minecraft Bell
+Loom 	loom 	Minecraft Loom
+Barrel 	barrel 	Minecraft Barrel
+Smoker 	smoker 	Minecraft Smoker
+Blast Furnace 	blast_furnace 	Minecraft Blast Furnace
+Cartography Table 	cartography_table 	Minecraft Cartography Table
+Fletching Table 	fletching_table 	Minecraft Fletching Table
+Grindstone 	grindstone 	Minecraft Grindstone
+Lectern 	lectern 	Minecraft Lectern
+Smithing Table 	smithing_table 	Minecraft Smithing Table
+Stonecutter 	stonecutter 	Minecraft Stonecutter
+Composter 	composter 	Minecraft Composter
+Beehive 	beehive 	Minecraft Beehive
+Bee nest 	bee_nest 	Minecraft Bee nest
+Honey block 	honey_block 	Minecraft Honey block
+Honeycomb Block 	honeycomb_block 	Minecraft Honeycomb Block
+Basalt 	basalt 	Minecraft Basalt
+Polished Basalt 	polished_basalt 	Minecraft Polished Basalt
+Smooth Basalt 	smooth_basalt 	Minecraft Smooth Basalt
+Warped Roots 	warped_roots 	Minecraft Warped Roots
+Nether Sprouts 	nether_sprouts 	Minecraft Nether Sprouts
+Weeping Vines 	weeping_vines 	Minecraft Weeping Vines
+Weeping Vines Plant 	weeping_vines_plant 	Minecraft Weeping Vines Plant
+Twisting Vines 	twisting_vines 	Minecraft Twisting Vines
+Twisting Vines Plant 	twisting_vines_plant 	Minecraft Twisting Vines Plant
+Crimson Roots 	crimson_roots 	Minecraft Crimson Roots
+Respawn Anchor 	respawn_anchor 	Minecraft Respawn Anchor
+Lodestone 	lodestone 	Minecraft Lodestone
+Cave Vines 	cave_vines 	Minecraft Cave Vines
+Cave Vines Plant 	cave_vines_plant 	Minecraft Cave Vines Plant
+Spore Blossom 	spore_blossom 	Minecraft Spore Blossom
+Azalea 	azalea 	Minecraft Azalea
+Flowering Azalea 	flowering_azalea 	Minecraft Flowering Azalea
+Big Dripleaf 	big_dripleaf 	Minecraft Big Dripleaf
+Big Dripleaf Stem 	big_dripleaf_stem 	Minecraft Big Dripleaf Stem
+Small Dripleaf 	small_dripleaf 	Minecraft Small Dripleaf
+Hanging Roots 	hanging_roots 	Minecraft Hanging Roots
+Ochre Froglight 	ochre_froglight 	Minecraft Ochre Froglight
+Verdant Froglight 	verdant_froglight 	Minecraft Verdant Froglight
+Pearlscent Froglight 	pearlescent_froglight 	Minecraft Pearlscent Froglight
+Frogspawn 	frogspawn 	Minecraft Frogspawn
+Any Dye 	#forge:dyes 	Minecraft Any Dye
+Ink Sac 	ink_sac 	Minecraft Ink Sac
+Glow Ink Sac 	glow_ink_sac 	Minecraft Glow Ink Sac
+Rose Red 	red_dye 	Minecraft Rose Red
+Cactus Green 	green_dye 	Minecraft Cactus Green
+Cocoa Beans 	cocoa_beans 	Minecraft Cocoa Beans
+Lapis Lazuli 	lapis_lazuli 	Minecraft Lapis Lazuli
+Purple Dye 	purple_dye 	Minecraft Purple Dye
+Cyan Dye 	cyan_dye 	Minecraft Cyan Dye
+Light Gray Dye 	light_gray_dye 	Minecraft Light Gray Dye
+Gray Dye 	gray_dye 	Minecraft Gray Dye
+Pink Dye 	pink_dye 	Minecraft Pink Dye
+Lime Dye 	lime_dye 	Minecraft Lime Dye
+Dandelion Yellow 	yellow_dye 	Minecraft Dandelion Yellow
+Light Blue Dye 	light_blue_dye 	Minecraft Light Blue Dye
+Magenta Dye 	magenta_dye 	Minecraft Magenta Dye
+Orange Dye 	orange_dye 	Minecraft Orange Dye
+Bone Meal 	bone_meal 	Minecraft Bone Meal
+Black Dye 	black_dye 	Minecraft Black Dye
+Brown Dye 	brown_dye 	Minecraft Brown Dye
+Blue Dye 	blue_dye 	Minecraft Blue Dye
+White Dye 	white_dye 	Minecraft White Dye
+Any Coal 	#minecraft:coals 	Minecraft Any Coal
+Coal 	coal 	Minecraft Coal
+Charcoal 	charcoal 	Minecraft Charcoal
+Raw Iron 	raw_iron 	Minecraft Raw Iron
+Iron Ingot 	iron_ingot 	Minecraft Iron Ingot
+Iron Nugget 	iron_nugget 	Minecraft Iron Nugget
+Raw Copper 	raw_copper 	Minecraft Raw Copper
+Copper Ingot 	copper_ingot 	Minecraft Copper Ingot
+Redstone 	redstone 	Minecraft Redstone
+Raw Gold 	raw_gold 	Minecraft Raw Gold
+Gold Ingot 	gold_ingot 	Minecraft Gold Ingot
+Gold Nugget 	gold_nugget 	Minecraft Gold Nugget
+Diamond 	diamond 	Minecraft Diamond
+Netherite Ingot 	netherite_ingot 	Minecraft Netherite Ingot
+Netherite Scrap 	netherite_scrap 	Minecraft Netherite Scrap
+Emerald 	emerald 	Minecraft Emerald
+Nether Quartz 	quartz 	Minecraft Nether Quartz
+Nether Star 	nether_star 	Minecraft Nether Star
+Prismarine Shard 	prismarine_shard 	Minecraft Prismarine Shard
+Prismarine Crystals 	prismarine_crystals 	Minecraft Prismarine Crystals
+Heart Of The Sea 	heart_of_the_sea 	Minecraft Heart Of The Sea
+Nautilus Shell 	nautilus_shell 	Minecraft Nautilus Shell
+Scute 	scute 	Minecraft Scute
+Phantom Membrane 	phantom_membrane 	Minecraft Phantom Membrane
+Amethyst Shard 	amethyst_shard 	Minecraft Amethyst Shard
+Bow 	bow 	Minecraft Bow
+Crossbow 	crossbow 	Minecraft Crossbow
+Arrow 	arrow 	Minecraft Arrow
+Spectral Arrow 	spectral_arrow 	Minecraft Spectral Arrow
+Tipped Arrow 	tipped_arrow 	Minecraft Tipped Arrow
+Fishing Rod 	fishing_rod 	Minecraft Fishing Rod
+Carrot on a Stick 	carrot_on_a_stick 	Minecraft Carrot on a Stick
+Warped Fungus on a Stick 	warped_fungus_on_a_stick 	Minecraft Warped Fungus on a Stick
+Compass 	compass 	Minecraft Compass
+Recovery Compass 	recovery_compass 	Minecraft Recovery Compass
+Clock 	clock 	Minecraft Clock
+Spyglass 	spyglass 	Minecraft Spyglass
+Bundle 	bundle 	Minecraft Bundle
+Empty Map 	map 	Minecraft Empty Map
+Map 	filled_map 	Minecraft Map
+Banner Pattern 	flower_banner_pattern 	Minecraft Banner Pattern
+Banner Pattern 	creeper_banner_pattern 	Minecraft Banner Pattern
+Banner Pattern 	skull_banner_pattern 	Minecraft Banner Pattern
+Banner Pattern 	mojang_banner_pattern 	Minecraft Banner Pattern
+Banner Pattern 	globe_banner_pattern 	Minecraft Banner Pattern
+Banner Pattern 	piglin_banner_pattern 	Minecraft Banner Pattern
+Totem of Undying 	totem_of_undying 	Minecraft Totem of Undying
+Leash 	lead 	Minecraft Leash
+Name Tag 	name_tag 	Minecraft Name Tag
+Shield 	shield 	Minecraft Shield
+Wooden Sword 	wooden_sword 	Minecraft Wooden Sword
+Wooden Shovel 	wooden_shovel 	Minecraft Wooden Shovel
+Wooden Pickaxe 	wooden_pickaxe 	Minecraft Wooden Pickaxe
+Wooden Axe 	wooden_axe 	Minecraft Wooden Axe
+Wooden Hoe 	wooden_hoe 	Minecraft Wooden Hoe
+Stone Sword 	stone_sword 	Minecraft Stone Sword
+Stone Shovel 	stone_shovel 	Minecraft Stone Shovel
+Stone Pickaxe 	stone_pickaxe 	Minecraft Stone Pickaxe
+Stone Axe 	stone_axe 	Minecraft Stone Axe
+Stone Hoe 	stone_hoe 	Minecraft Stone Hoe
+Iron Sword 	iron_sword 	Minecraft Iron Sword
+Iron Shovel 	iron_shovel 	Minecraft Iron Shovel
+Iron Pickaxe 	iron_pickaxe 	Minecraft Iron Pickaxe
+Iron Axe 	iron_axe 	Minecraft Iron Axe
+Iron Hoe 	iron_hoe 	Minecraft Iron Hoe
+Flint and Steel 	flint_and_steel 	Minecraft Flint and Steel
+Shears 	shears 	Minecraft Shears
+Golden Sword 	golden_sword 	Minecraft Golden Sword
+Golden Shovel 	golden_shovel 	Minecraft Golden Shovel
+Golden Pickaxe 	golden_pickaxe 	Minecraft Golden Pickaxe
+Golden Axe 	golden_axe 	Minecraft Golden Axe
+Golden Hoe 	golden_hoe 	Minecraft Golden Hoe
+Diamond Sword 	diamond_sword 	Minecraft Diamond Sword
+Diamond Shovel 	diamond_shovel 	Minecraft Diamond Shovel
+Diamond Pickaxe 	diamond_pickaxe 	Minecraft Diamond Pickaxe
+Diamond Axe 	diamond_axe 	Minecraft Diamond Axe
+Diamond Hoe 	diamond_hoe 	Minecraft Diamond Hoe
+Netherite Sword 	netherite_sword 	Minecraft Netherite Sword
+Netherite Shovel 	netherite_shovel 	Minecraft Netherite Shovel
+Netherite Pickaxe 	netherite_pickaxe 	Minecraft Netherite Pickaxe
+Netherite Axe 	netherite_axe 	Minecraft Netherite Axe
+Netherite Hoe 	netherite_hoe 	Minecraft Netherite Hoe
+Trident 	trident 	Minecraft Trident
+Leather Helmet 	leather_helmet 	Minecraft Leather Helmet
+Leather Chestplate 	leather_chestplate 	Minecraft Leather Chestplate
+Leather Leggings 	leather_leggings 	Minecraft Leather Leggings
+Leather Boots 	leather_boots 	Minecraft Leather Boots
+Chainmail Helmet 	chainmail_helmet 	Minecraft Chainmail Helmet
+Chainmail Chestplate 	chainmail_chestplate 	Minecraft Chainmail Chestplate
+Chainmail Leggings 	chainmail_leggings 	Minecraft Chainmail Leggings
+Chainmail Boots 	chainmail_boots 	Minecraft Chainmail Boots
+Turtle Shell 	turtle_helmet 	Minecraft Turtle Shell
+Iron Helmet 	iron_helmet 	Minecraft Iron Helmet
+Iron Chestplate 	iron_chestplate 	Minecraft Iron Chestplate
+Iron Leggings 	iron_leggings 	Minecraft Iron Leggings
+Iron Boots 	iron_boots 	Minecraft Iron Boots
+Golden Helmet 	golden_helmet 	Minecraft Golden Helmet
+Golden Chestplate 	golden_chestplate 	Minecraft Golden Chestplate
+Golden Leggings 	golden_leggings 	Minecraft Golden Leggings
+Golden Boots 	golden_boots 	Minecraft Golden Boots
+Diamond Helmet 	diamond_helmet 	Minecraft Diamond Helmet
+Diamond Chestplate 	diamond_chestplate 	Minecraft Diamond Chestplate
+Diamond Leggings 	diamond_leggings 	Minecraft Diamond Leggings
+Diamond Boots 	diamond_boots 	Minecraft Diamond Boots
+Netherite Helmet 	netherite_helmet 	Minecraft Netherite Helmet
+Netherite Chestplate 	netherite_chestplate 	Minecraft Netherite Chestplate
+Netherite Leggings 	netherite_leggings 	Minecraft Netherite Leggings
+Netherite Boots 	netherite_boots 	Minecraft Netherite Boots
+Elytra 	elytra 	Minecraft Elytra
+Leather Horse Armor 	leather_horse_armor 	Minecraft Leather Horse Armor
+Iron Horse Armor 	iron_horse_armor 	Minecraft Iron Horse Armor
+Golden Horse Armor 	golden_horse_armor 	Minecraft Golden Horse Armor
+Diamond Horse Armor 	diamond_horse_armor 	Minecraft Diamond Horse Armor
+Armor Stand 	armor_stand 	Minecraft Armor Stand
+Flower Pot 	flower_pot 	Minecraft Flower Pot
+Any Banner 	#minecraft:banners 	Minecraft Any Banner
+Black Banner 	black_banner 	Minecraft Black Banner
+Red Banner 	red_banner 	Minecraft Red Banner
+Green Banner 	green_banner 	Minecraft Green Banner
+Brown Banner 	brown_banner 	Minecraft Brown Banner
+Blue Banner 	blue_banner 	Minecraft Blue Banner
+Purple Banner 	purple_banner 	Minecraft Purple Banner
+Cyan Banner 	cyan_banner 	Minecraft Cyan Banner
+Light Gray Banner 	light_gray_banner 	Minecraft Light Gray Banner
+Gray Banner 	gray_banner 	Minecraft Gray Banner
+Pink Banner 	pink_banner 	Minecraft Pink Banner
+Lime Banner 	lime_banner 	Minecraft Lime Banner
+Yellow Banner 	yellow_banner 	Minecraft Yellow Banner
+Light Blue Banner 	light_blue_banner 	Minecraft Light Blue Banner
+Magenta Banner 	magenta_banner 	Minecraft Magenta Banner
+Orange Banner 	orange_banner 	Minecraft Orange Banner
+White Banner 	white_banner 	Minecraft White Banner
+Painting 	painting 	Minecraft Painting
+Item Frame 	item_frame 	Minecraft Item Frame
+Glow Item Frame 	glow_item_frame 	Minecraft Glow Item Frame
+Oak Sign 	oak_sign 	Minecraft Oak Sign
+Spruce Sign 	spruce_sign 	Minecraft Spruce Sign
+Birch Sign 	birch_sign 	Minecraft Birch Sign
+Jungle Sign 	jungle_sign 	Minecraft Jungle Sign
+Acacia Sign 	acacia_sign 	Minecraft Acacia Sign
+Dark Oak Sign 	dark_oak_sign 	Minecraft Dark Oak Sign
+Crimson Sign 	crimson_sign 	Minecraft Crimson Sign
+Warped Sign 	warped_sign 	Minecraft Warped Sign
+Mangrove Sign 	mangrove_sign 	Minecraft Mangrove Sign
+Oak Door 	oak_door 	Minecraft Oak Door
+Spruce Door 	spruce_door 	Minecraft Spruce Door
+Birch Door 	birch_door 	Minecraft Birch Door
+Jungle Door 	jungle_door 	Minecraft Jungle Door
+Acacia Door 	acacia_door 	Minecraft Acacia Door
+Dark Oak Door 	dark_oak_door 	Minecraft Dark Oak Door
+Iron Door 	iron_door 	Minecraft Iron Door
+Crimson Door 	crimson_door 	Minecraft Crimson Door
+Warped Door 	warped_door 	Minecraft Warped Door
+Mangrove Door 	mangrove_door 	Minecraft Mangrove Door
+Bucket 	bucket 	Minecraft Bucket
+Water Bucket 	water_bucket 	Minecraft Water Bucket
+Pufferfish Bucket 	pufferfish_bucket 	Minecraft Pufferfish Bucket
+Salmon Bucket 	salmon_bucket 	Minecraft Salmon Bucket
+Cod Bucket 	cod_bucket 	Minecraft Cod Bucket
+Tropical Fish Bucket 	tropical_fish_bucket 	Minecraft Tropical Fish Bucket
+Axolotl Bucket 	axolotl_bucket 	Minecraft Axolotl Bucket
+Tadpole Bucket 	tadpole_bucket 	Minecraft Tadpole Bucket
+Lava Bucket 	lava_bucket 	Minecraft Lava Bucket
+Milk Bucket 	milk_bucket 	Minecraft Milk Bucket
+Powder Snow Bucket 	powder_snow_bucket 	Minecraft Powder Snow Bucket
+Minecart 	minecart 	Minecraft Minecart
+Minecart with Chest 	chest_minecart 	Minecraft Minecart with Chest
+Minecart with Furnace 	furnace_minecart 	Minecraft Minecart with Furnace
+Minecart with Hopper 	hopper_minecart 	Minecraft Minecart with Hopper
+Minecart with TNT 	tnt_minecart 	Minecraft Minecart with TNT
+Minecart with Command Block 	command_block_minecart 	Minecraft Minecart with Command Block
+Oak Boat 	oak_boat 	Minecraft Oak Boat
+Spruce Boat 	spruce_boat 	Minecraft Spruce Boat
+Birch Boat 	birch_boat 	Minecraft Birch Boat
+Jungle Boat 	jungle_boat 	Minecraft Jungle Boat
+Acacia Boat 	acacia_boat 	Minecraft Acacia Boat
+Dark Oak Boat 	dark_oak_boat 	Minecraft Dark Oak Boat
+Mangrove Boat 	mangrove_boat 	Minecraft Mangrove Boat
+Oak Boat with Chest 	oak_chest_boat 	Minecraft Oak Boat with Chest
+Spruce Boat with Chest 	spruce_chest_boat 	Minecraft Spruce Boat with Chest
+Birch Boat with Chest 	birch_chest_boat 	Minecraft Birch Boat with Chest
+Jungle Boat with Chest 	jungle_chest_boat 	Minecraft Jungle Boat with Chest
+Acacia Boat with Chest 	acacia_chest_boat 	Minecraft Acacia Boat with Chest
+Dark Oak Boat with Chest 	dark_oak_chest_boat 	Minecraft Dark Oak Boat with Chest
+Mangrove Boat with Chest 	mangrove_chest_boat 	Minecraft Mangrove Boat with Chest
+Redstone Repeater 	repeater 	Minecraft Redstone Repeater
+Comparator 	comparator 	Minecraft Comparator
+Apple 	apple 	Minecraft Apple
+Any Golden Apple 	golden_apple 	Minecraft Any Golden Apple
+Golden Apple 	golden_apple 	Minecraft Golden Apple
+Enchanted Golden Apple 	enchanted_golden_apple 	Minecraft Enchanted Golden Apple
+Stick 	stick 	Minecraft Stick
+Debug Stick 	debug_stick 	Minecraft Debug Stick
+Bowl 	bowl 	Minecraft Bowl
+Mushroom Stew 	mushroom_stew 	Minecraft Mushroom Stew
+Suspicious Stew 	suspicious_stew 	Minecraft Suspicious Stew
+String 	string 	Minecraft String
+Feather 	feather 	Minecraft Feather
+Gunpowder 	gunpowder 	Minecraft Gunpowder
+Wheat Seeds 	wheat_seeds 	Minecraft Wheat Seeds
+Wheat 	wheat 	Minecraft Wheat
+Carrot 	carrot 	Minecraft Carrot
+Potato 	potato 	Minecraft Potato
+Baked Potato 	baked_potato 	Minecraft Baked Potato
+Poisonous Potato 	poisonous_potato 	Minecraft Poisonous Potato
+Pumpkin Pie 	pumpkin_pie 	Minecraft Pumpkin Pie
+Golden Carrot 	golden_carrot 	Minecraft Golden Carrot
+Bread 	bread 	Minecraft Bread
+Pumpkin Seeds 	pumpkin_seeds 	Minecraft Pumpkin Seeds
+Flint 	flint 	Minecraft Flint
+Leather 	leather 	Minecraft Leather
+Saddle 	saddle 	Minecraft Saddle
+Brick 	brick 	Minecraft Brick
+Nether Brick 	nether_brick 	Minecraft Nether Brick
+Clay 	clay_ball 	Minecraft Clay
+Reeds 	sugar_cane 	Minecraft Reeds
+Paper 	paper 	Minecraft Paper
+Dried Kelp 	dried_kelp 	Minecraft Dried Kelp
+Slimeball 	slime_ball 	Minecraft Slimeball
+Egg 	egg 	Minecraft Egg
+Glowstone Dust 	glowstone_dust 	Minecraft Glowstone Dust
+Bone 	bone 	Minecraft Bone
+Sugar 	sugar 	Minecraft Sugar
+Cake 	cake 	Minecraft Cake
+Any Candle Cake 	#minecraft:candle_cakes 	Minecraft Any Candle Cake
+Candle Cake 	candle_cake 	Minecraft Candle Cake
+White Candle Cake 	white_candle_cake 	Minecraft White Candle Cake
+Orange Candle Cake 	orange_candle_cake 	Minecraft Orange Candle Cake
+Magenta Candle Cake 	magenta_candle_cake 	Minecraft Magenta Candle Cake
+Light Blue Candle Cake 	light_blue_candle_cake 	Minecraft Light Blue Candle Cake
+Yellow Candle Cake 	yellow_candle_cake 	Minecraft Yellow Candle Cake
+Lime Candle Cake 	lime_candle_cake 	Minecraft Lime Candle Cake
+Pink Candle Cake 	pink_candle_cake 	Minecraft Pink Candle Cake
+Gray Candle Cake 	gray_candle_cake 	Minecraft Gray Candle Cake
+Light Gray Candle Cake 	light_gray_candle_cake 	Minecraft Light Gray Candle Cake
+Cyan Candle Cake 	cyan_candle_cake 	Minecraft Cyan Candle Cake
+Purple Candle Cake 	purple_candle_cake 	Minecraft Purple Candle Cake
+Blue Candle Cake 	blue_candle_cake 	Minecraft Blue Candle Cake
+Brown Candle Cake 	brown_candle_cake 	Minecraft Brown Candle Cake
+Green Candle Cake 	green_candle_cake 	Minecraft Green Candle Cake
+Red Candle Cake 	red_candle_cake 	Minecraft Red Candle Cake
+Black Candle Cake 	black_candle_cake 	Minecraft Black Candle Cake
+Bed 	white_bed 	Minecraft Bed
+Cookie 	cookie 	Minecraft Cookie
+Melon 	melon_slice 	Minecraft Melon
+Melon Seeds 	melon_seeds 	Minecraft Melon Seeds
+Sweet Berries 	sweet_berries 	Minecraft Sweet Berries
+Glow Berries 	glow_berries 	Minecraft Glow Berries
+Any Fish 	#minecraft:fishes 	Minecraft Any Fish
+Raw Fish 	cod 	Minecraft Raw Fish
+Raw Salmon 	salmon 	Minecraft Raw Salmon
+Tropical Fish 	tropical_fish 	Minecraft Tropical Fish
+Pufferfish 	pufferfish 	Minecraft Pufferfish
+Any Cooked Fish 	#minecraft:fishes 	Minecraft Any Cooked Fish
+Cooked Fish 	cooked_cod 	Minecraft Cooked Fish
+Cooked Salmon 	cooked_salmon 	Minecraft Cooked Salmon
+Porkchop 	porkchop 	Minecraft Porkchop
+Cooked Porkchop 	cooked_porkchop 	Minecraft Cooked Porkchop
+Beef 	beef 	Minecraft Beef
+Cooked Beef 	cooked_beef 	Minecraft Cooked Beef
+Chicken 	chicken 	Minecraft Chicken
+Cooked Chicken 	cooked_chicken 	Minecraft Cooked Chicken
+Rabbit 	rabbit 	Minecraft Rabbit
+Cooked Rabbit 	cooked_rabbit 	Minecraft Cooked Rabbit
+Rabbit Foot 	rabbit_foot 	Minecraft Rabbit Foot
+Rabbit Hide 	rabbit_hide 	Minecraft Rabbit Hide
+Rabbit Stew 	rabbit_stew 	Minecraft Rabbit Stew
+Mutton 	mutton 	Minecraft Mutton
+Cooked Mutton 	cooked_mutton 	Minecraft Cooked Mutton
+Rotten Flesh 	rotten_flesh 	Minecraft Rotten Flesh
+Ender Pearl 	ender_pearl 	Minecraft Ender Pearl
+Eye of Ender 	ender_eye 	Minecraft Eye of Ender
+End Crystal 	end_crystal 	Minecraft End Crystal
+Shulker Shell 	shulker_shell 	Minecraft Shulker Shell
+Chorus Fruit 	chorus_fruit 	Minecraft Chorus Fruit
+Popped Chorus Fruit 	popped_chorus_fruit 	Minecraft Popped Chorus Fruit
+Beetroot 	beetroot 	Minecraft Beetroot
+Beetroot Seeds 	beetroot_seeds 	Minecraft Beetroot Seeds
+Beetroot Soup 	beetroot_soup 	Minecraft Beetroot Soup
+Ghast Tear 	ghast_tear 	Minecraft Ghast Tear
+Nether Wart 	nether_wart 	Minecraft Nether Wart
+Glass Bottle 	glass_bottle 	Minecraft Glass Bottle
+Water Bottle/Any Potion 	potion 	Minecraft Water Bottle/Any Potion
+Splash Potion 	splash_potion 	Minecraft Splash Potion
+Lingering Potion 	lingering_potion 	Minecraft Lingering Potion
+Dragon's Breath 	dragon_breath 	Minecraft Dragon
+Spider Eye 	spider_eye 	Minecraft Spider Eye
+Fermented Spider Eye 	fermented_spider_eye 	Minecraft Fermented Spider Eye
+Blaze Rod 	blaze_rod 	Minecraft Blaze Rod
+Blaze Powder 	blaze_powder 	Minecraft Blaze Powder
+Magma Cream 	magma_cream 	Minecraft Magma Cream
+Brewing Stand 	brewing_stand 	Minecraft Brewing Stand
+Cauldron 	cauldron 	Minecraft Cauldron
+Speckled Melon 	glistering_melon_slice 	Minecraft Speckled Melon
+Any Spawn Egg 	#forge:eggs 	Minecraft Any Spawn Egg
+Spawn Creeper 	creeper_spawn_egg 	Minecraft Spawn Creeper
+Spawn Skeleton 	skeleton_spawn_egg 	Minecraft Spawn Skeleton
+Spawn Spider 	spider_spawn_egg 	Minecraft Spawn Spider
+Spawn Zombie 	zombie_spawn_egg 	Minecraft Spawn Zombie
+Spawn Slime 	slime_spawn_egg 	Minecraft Spawn Slime
+Spawn Ghast 	ghast_spawn_egg 	Minecraft Spawn Ghast
+Zombified Piglin Spawn Egg 	zombified_piglin_spawn_egg 	Minecraft Zombified Piglin Spawn Egg
+Spawn Endermen 	enderman_spawn_egg 	Minecraft Spawn Endermen
+Spawn Cave Spider 	cave_spider_spawn_egg 	Minecraft Spawn Cave Spider
+Spawn Silverfish 	silverfish_spawn_egg 	Minecraft Spawn Silverfish
+Spawn Blaze 	blaze_spawn_egg 	Minecraft Spawn Blaze
+Spawn Magma Cube 	magma_cube_spawn_egg 	Minecraft Spawn Magma Cube
+Spawn Bat 	bat_spawn_egg 	Minecraft Spawn Bat
+Spawn Witch 	witch_spawn_egg 	Minecraft Spawn Witch
+Spawn Endermite 	endermite_spawn_egg 	Minecraft Spawn Endermite
+Spawn Guardian 	guardian_spawn_egg 	Minecraft Spawn Guardian
+Spawn Pig 	pig_spawn_egg 	Minecraft Spawn Pig
+Spawn Sheep 	sheep_spawn_egg 	Minecraft Spawn Sheep
+Spawn Cow 	cow_spawn_egg 	Minecraft Spawn Cow
+Spawn Chicken 	chicken_spawn_egg 	Minecraft Spawn Chicken
+Spawn Squid 	squid_spawn_egg 	Minecraft Spawn Squid
+Spawn Wolf 	wolf_spawn_egg 	Minecraft Spawn Wolf
+Spawn Mooshroom 	mooshroom_spawn_egg 	Minecraft Spawn Mooshroom
+Spawn Ocelot 	ocelot_spawn_egg 	Minecraft Spawn Ocelot
+Spawn Horse 	horse_spawn_egg 	Minecraft Spawn Horse
+Spawn Rabbit 	rabbit_spawn_egg 	Minecraft Spawn Rabbit
+Spawn Villager 	villager_spawn_egg 	Minecraft Spawn Villager
+Bee Spawn Egg 	bee_spawn_egg 	Minecraft Bee Spawn Egg
+Cat Spawn Egg 	cat_spawn_egg 	Minecraft Cat Spawn Egg
+Cod Spawn Egg 	cod_spawn_egg 	Minecraft Cod Spawn Egg
+Dolphin Spawn Egg 	dolphin_spawn_egg 	Minecraft Dolphin Spawn Egg
+Donkey Spawn Egg 	donkey_spawn_egg 	Minecraft Donkey Spawn Egg
+Drowned Spawn Egg 	drowned_spawn_egg 	Minecraft Drowned Spawn Egg
+Elder Guardian Spawn Egg 	elder_guardian_spawn_egg 	Minecraft Elder Guardian Spawn Egg
+Evoker Spawn Egg 	evoker_spawn_egg 	Minecraft Evoker Spawn Egg
+Fox Spawn Egg 	fox_spawn_egg 	Minecraft Fox Spawn Egg
+Husk Spawn Egg 	husk_spawn_egg 	Minecraft Husk Spawn Egg
+Llama Spawn Egg 	llama_spawn_egg 	Minecraft Llama Spawn Egg
+Mule Spawn Egg 	mule_spawn_egg 	Minecraft Mule Spawn Egg
+Panda Spawn Egg 	panda_spawn_egg 	Minecraft Panda Spawn Egg
+Parrot Spawn Egg 	parrot_spawn_egg 	Minecraft Parrot Spawn Egg
+Phantom Spawn Egg 	phantom_spawn_egg 	Minecraft Phantom Spawn Egg
+Pillager Spawn Egg 	pillager_spawn_egg 	Minecraft Pillager Spawn Egg
+Polar Bear Spawn Egg 	polar_bear_spawn_egg 	Minecraft Polar Bear Spawn Egg
+Pufferfish Spawn Egg 	pufferfish_spawn_egg 	Minecraft Pufferfish Spawn Egg
+Ravager Spawn Egg 	ravager_spawn_egg 	Minecraft Ravager Spawn Egg
+Salmon Spawn Egg 	salmon_spawn_egg 	Minecraft Salmon Spawn Egg
+Shulker Spawn Egg 	shulker_spawn_egg 	Minecraft Shulker Spawn Egg
+Skeleton Horse Spawn Egg 	skeleton_horse_spawn_egg 	Minecraft Skeleton Horse Spawn Egg
+Stray Spawn Egg 	stray_spawn_egg 	Minecraft Stray Spawn Egg
+Trader Llama Spawn Egg 	trader_llama_spawn_egg 	Minecraft Trader Llama Spawn Egg
+Tropical Fish Spawn Egg 	tropical_fish_spawn_egg 	Minecraft Tropical Fish Spawn Egg
+Turtle Spawn Egg 	turtle_spawn_egg 	Minecraft Turtle Spawn Egg
+Vex Spawn Egg 	vex_spawn_egg 	Minecraft Vex Spawn Egg
+Vindicator Spawn Egg 	vindicator_spawn_egg 	Minecraft Vindicator Spawn Egg
+Wandering Trader Spawn Egg 	wandering_trader_spawn_egg 	Minecraft Wandering Trader Spawn Egg
+Wither Skeleton Spawn Egg 	wither_skeleton_spawn_egg 	Minecraft Wither Skeleton Spawn Egg
+Zombie Horse Spawn Egg 	zombie_horse_spawn_egg 	Minecraft Zombie Horse Spawn Egg
+Zombie Villager Spawn Egg 	zombie_villager_spawn_egg 	Minecraft Zombie Villager Spawn Egg
+Hoglin Spawn Egg 	hoglin_spawn_egg 	Minecraft Hoglin Spawn Egg
+Piglin Spawn Egg 	piglin_spawn_egg 	Minecraft Piglin Spawn Egg
+Piglin Brute Spawn Egg 	piglin_brute_spawn_egg 	Minecraft Piglin Brute Spawn Egg
+Strider Spawn Egg 	strider_spawn_egg 	Minecraft Strider Spawn Egg
+Zoglin Spawn Egg 	zoglin_spawn_egg 	Minecraft Zoglin Spawn Egg
+Axolotl Spawn Egg 	axolotl_spawn_egg 	Minecraft Axolotl Spawn Egg
+Allay Spawn Egg 	allay_spawn_egg 	Minecraft Allay Spawn Egg
+Frog Spawn Egg 	frog_spawn_egg 	Minecraft Frog Spawn Egg
+Tadpole Spawn Egg 	tadpole_spawn_egg 	Minecraft Tadpole Spawn Egg
+Warden Spawn Egg 	warden_spawn_egg 	Minecraft Warden Spawn Egg
+Goat Spawn Egg 	goat_spawn_egg 	Minecraft Goat Spawn Egg
+Glow Squid Spawn Egg 	glow_squid_spawn_egg 	Minecraft Glow Squid Spawn Egg
+Bottle o' Enchanting 	experience_bottle 	Minecraft Bottle o
+Fire charge 	fire_charge 	Minecraft Fire charge
+Snowball 	snowball 	Minecraft Snowball
+Book 	book 	Minecraft Book
+Writable Book 	writable_book 	Minecraft Writable Book
+Written Book 	written_book 	Minecraft Written Book
+Enchanted Book 	enchanted_book 	Minecraft Enchanted Book
+Knowledge Book 	knowledge_book 	Minecraft Knowledge Book
+Music Disc 	music_disc_13 	Minecraft Music Disc
+Music Disc 	music_disc_cat 	Minecraft Music Disc
+Music Disc 	music_disc_blocks 	Minecraft Music Disc
+Music Disc 	music_disc_chirp 	Minecraft Music Disc
+Music Disc 	music_disc_far 	Minecraft Music Disc
+Music Disc 	music_disc_mall 	Minecraft Music Disc
+Music Disc 	music_disc_mellohi 	Minecraft Music Disc
+Music Disc 	music_disc_stal 	Minecraft Music Disc
+Music Disc 	music_disc_strad 	Minecraft Music Disc
+Music Disc 	music_disc_ward 	Minecraft Music Disc
+Music Disc 	music_disc_11 	Minecraft Music Disc
+Music Disc 	music_disc_wait 	Minecraft Music Disc
+Music Disc 	music_disc_otherside 	Minecraft Music Disc
+Music Disc 	music_disc_5 	Minecraft Music Disc
+Music Disc 	music_disc_pigstep 	Minecraft Music Disc
+Disc Fragment 5 	disc_fragment_5 	Minecraft Disc Fragment 5
+Any Skull 	#forge:heads 	Minecraft Any Skull
+Skeleton Skull 	skeleton_skull 	Minecraft Skeleton Skull
+Wither Skeleton Skull 	wither_skeleton_skull 	Minecraft Wither Skeleton Skull
+Zombie Head 	player_head 	Minecraft Zombie Head
+Head 	zombie_head 	Minecraft Head
+Creeper Head 	creeper_head 	Minecraft Creeper Head
+Dragon Head 	dragon_head 	Minecraft Dragon Head
+Firework Charge 	firework_star 	Minecraft Firework Charge
+Fireworks 	firework_rocket 	Minecraft Fireworks
+Honeycomb 	honeycomb 	Minecraft Honeycomb
+Honey Bottle 	honey_bottle 	Minecraft Honey Bottle
+Goat Horn 	goat_horn 	Minecraft Goat Horn
+Echo Shard 	echo_shard 	BlaBla

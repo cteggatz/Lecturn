@@ -1,0 +1,6444 @@
+{
+  "MinecraftBlocks": [
+    {
+      "name": "air",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "void_air",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "cave_air",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "stone",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "stone_stairs",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "stone_slab",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "granite",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "polished_granite",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "granite_stairs",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "polished_granite_stairs",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "granite_slab",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "polished_granite_slab",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "granite_wall",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "diorite",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "diorite_stairs",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "diorite_slab",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "diorite_wall",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "polished_diorite",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "polished_diorite_slab",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "polished_diorite_stairs",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "andesite",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "andesite_stairs",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "andesite_slab",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "andesite_wall",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "polished_andesite",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "polished_andesite_stairs",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "polished_andesite_slab",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "smooth_stone",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "deepslate",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "reinforced_deepslate",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "cobbled_deepslate",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "cobbled_deepslate_stairs",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "cobbled_deepslate_slab",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "cobbled_deepslate_wall",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "polished_deepslate",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "polished_deepslate_stairs",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "polished_deepslate_slab",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "polished_deepslate_wall",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "deepslate_tiles",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "deepslate_tile_stairs",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "deepslate_tile_slab",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "deepslate_tile_wall",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "deepslate_bricks",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "deepslate_brick_stairs",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "deepslate_brick_slab",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "deepslate_brick_wall",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "chiseled_deepslate",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "cracked_deepslate_bricks",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "cracked_deepslate_tiles",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "tuff",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "calcite",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "dripstone_block",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "pointed_dripstone",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "grass_block",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "dirt_path",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "mycelium",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "dirt",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "dirt",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "coarse_dirt",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "podzol",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "rooted_dirt",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "mud",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "packed_mud",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "mud_bricks",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "mud_brick_stairs",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "mud_brick_slab",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "mud_brick_wall",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "cobblestone",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "mossy_cobblestone",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "mossy_cobblestone_stairs",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "mossy_cobblestone_slab",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "moss_block",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "moss_carpet",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "oak_planks",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "spruce_planks",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "birch_planks",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "jungle_planks",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "acacia_planks",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "dark_oak_planks",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "crimson_planks",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "warped_planks",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "mangrove_planks",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "oak_sapling",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "spruce_sapling",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "birch_sapling",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "jungle_sapling",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "acacia_sapling",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "dark_oak_sapling",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "mangrove_propagule",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "sugar_cane",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "bedrock",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "sand",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "red_sand",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "gravel",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "water",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "water",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "bubble_column",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "lava",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "lava",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "magma_block",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "obsidian",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "crying_obsidian",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "blackstone",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "blackstone_stairs",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "blackstone_wall",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "blackstone_slab",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "polished_blackstone",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "polished_blackstone_bricks",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "cracked_polished_blackstone_bricks",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "chiseled_polished_blackstone",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "polished_blackstone_brick_slab",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "polished_blackstone_brick_stairs",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "polished_blackstone_brick_wall",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "polished_blackstone_stairs",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "polished_blackstone_slab",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "polished_blackstone_wall",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "coal_ore",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "iron_ore",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "redstone_ore",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "redstone_ore",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "gold_ore",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "lapis_ore",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "diamond_ore",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "emerald_ore",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "copper_ore",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "deepslate_coal_ore",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "deepslate_iron_ore",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "deepslate_redstone_ore",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "deepslate_gold_ore",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "deepslate_lapis_ore",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "deepslate_diamond_ore",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "deepslate_emerald_ore",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "deepslate_copper_ore",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "nether_quartz_ore",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "nether_gold_ore",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "gilded_blackstone",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "raw_iron_block",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "raw_gold_block",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "raw_copper_block",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "coal_block",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "iron_block",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "copper_block",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "exposed_copper",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "weathered_copper",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "oxidized_copper",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "cut_copper",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "exposed_cut_copper",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "weathered_cut_copper",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "oxidized_cut_copper",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "cut_copper_stairs",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "exposed_cut_copper_stairs",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "weathered_cut_copper_stairs",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "oxidized_cut_copper_stairs",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "cut_copper_slab",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "exposed_cut_copper_slab",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "weathered_cut_copper_slab",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "oxidized_cut_copper_slab",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "waxed_copper_block",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "waxed_exposed_copper",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "waxed_weathered_copper",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "waxed_oxidized_copper",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "waxed_cut_copper",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "waxed_exposed_cut_copper",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "waxed_weathered_cut_copper",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "waxed_oxidized_cut_copper",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "waxed_cut_copper_stairs",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "waxed_exposed_cut_copper_stairs",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "waxed_weathered_cut_copper_stairs",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "waxed_oxidized_cut_copper_stairs",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "waxed_cut_copper_slab",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "waxed_exposed_cut_copper_slab",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "waxed_weathered_cut_copper_slab",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "waxed_oxidized_cut_copper_slab",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "redstone_block",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "gold_block",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "lapis_block",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "diamond_block",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "emerald_block",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "netherite_block",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "smooth_quartz",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "chiseled_quartz_block",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "quartz_pillar",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "quartz_block",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "quartz_bricks",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "smooth_quartz_stairs",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "smooth_quartz_slab",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "slime_block",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "ancient_debris",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "amethyst_block",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "budding_amethyst",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "amethyst_cluster",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "large_amethyst_bud",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "medium_amethyst_bud",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "small_amethyst_bud",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "oak_log",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "oak_log",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "spruce_log",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "birch_log",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "jungle_log",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "acacia_log",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "acacia_log",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "dark_oak_log",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "warped_stem",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "crimson_stem",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "mangrove_log",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "mangrove_roots",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "muddy_mangrove_roots",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "stripped_oak_log",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "stripped_spruce_log",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "stripped_birch_log",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "stripped_jungle_log",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "stripped_acacia_log",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "stripped_dark_oak_log",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "stripped_warped_stem",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "stripped_crimson_stem",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "stripped_mangrove_log",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "oak_wood",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "spruce_wood",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "birch_wood",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "jungle_wood",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "acacia_wood",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "dark_oak_wood",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "warped_hyphae",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "crimson_hyphae",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "mangrove_wood",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "stripped_oak_wood",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "stripped_spruce_wood",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "stripped_birch_wood",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "stripped_jungle_wood",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "stripped_acacia_wood",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "stripped_dark_oak_wood",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "stripped_warped_hyphae",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "stripped_crimson_hyphae",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "stripped_mangrove_wood",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "oak_leaves",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "oak_leaves",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "spruce_leaves",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "birch_leaves",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "jungle_leaves",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "acacia_leaves",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "acacia_leaves",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "dark_oak_leaves",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "mangrove_leaves",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "azalea_leaves",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "flowering_azalea_leaves",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "sponge",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "sponge",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "wet_sponge",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "sandstone",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "chiseled_sandstone",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "cut_sandstone",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "sandstone_stairs",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "smooth_sandstone",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "smooth_sandstone_stairs",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "smooth_sandstone_slab",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "cut_sandstone_slab",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "sandstone_wall",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "red_sandstone",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "chiseled_red_sandstone",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "cut_red_sandstone",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "red_sandstone_stairs",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "smooth_red_sandstone",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "smooth_red_sandstone_stairs",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "smooth_red_sandstone_slab",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "cut_red_sandstone_slab",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "red_sandstone_wall",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "note_block",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "rail",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "powered_rail",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "detector_rail",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "activator_rail",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "white_bed",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "orange_bed",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "magenta_bed",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "light_blue_bed",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "yellow_bed",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "lime_bed",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "pink_bed",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "gray_bed",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "light_gray_bed",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "cyan_bed",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "purple_bed",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "blue_bed",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "brown_bed",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "green_bed",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "red_bed",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "black_bed",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "cobweb",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "dead_bush",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "grass",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "dead_bush",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "grass",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "fern",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "piston",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "sticky_piston",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "piston_head",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "moving_piston",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "dandelion",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "poppy",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "blue_orchid",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "allium",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "azure_bluet",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "red_tulip",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "orange_tulip",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "white_tulip",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "pink_tulip",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "oxeye_daisy",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "cornflower",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "lily_of_the_valley",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "wither_rose",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "sunflower",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "lilac",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "tall_grass",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "large_fern",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "rose_bush",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "peony",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "brown_mushroom",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "red_mushroom",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "warped_fungus",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "crimson_fungus",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "brown_mushroom_block",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "red_mushroom_block",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "warped_wart_block",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "mushroom_stem",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "bricks",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "brick_wall",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "tnt",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "bookshelf",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "torch",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "wall_torch",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "soul_torch",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "soul_wall_torch",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "fire",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "soul_fire",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "lantern",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "soul_lantern",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "chain",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "campfire",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "soul_campfire",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "candle",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "white_candle",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "orange_candle",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "magenta_candle",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "light_blue_candle",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "yellow_candle",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "lime_candle",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "pink_candle",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "gray_candle",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "light_gray_candle",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "cyan_candle",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "purple_candle",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "blue_candle",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "brown_candle",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "green_candle",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "red_candle",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "black_candle",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "light",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "spawner",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "oak_stairs",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "spruce_stairs",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "birch_stairs",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "jungle_stairs",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "acacia_stairs",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "dark_oak_stairs",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "crimson_stairs",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "warped_stairs",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "mangrove_stairs",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "cobblestone_stairs",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "brick_stairs",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "stone_brick_stairs",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "nether_brick_stairs",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "quartz_stairs",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "purpur_stairs",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "chest",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "trapped_chest",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "ender_chest",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "crafting_table",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "wheat",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "farmland",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "furnace",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "oak_sign",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "spruce_sign",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "birch_sign",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "acacia_sign",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "jungle_sign",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "dark_oak_sign",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "crimson_sign",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "warped_sign",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "mangrove_sign",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "oak_wall_sign",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "spruce_wall_sign",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "birch_wall_sign",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "acacia_wall_sign",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "jungle_wall_sign",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "dark_oak_wall_sign",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "crimson_wall_sign",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "warped_wall_sign",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "mangrove_wall_sign",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "oak_door",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "spruce_door",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "birch_door",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "jungle_door",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "acacia_door",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "dark_oak_door",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "crimson_door",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "warped_door",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "mangrove_door",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "iron_door",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "oak_trapdoor",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "spruce_trapdoor",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "birch_trapdoor",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "jungle_trapdoor",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "acacia_trapdoor",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "dark_oak_trapdoor",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "crimson_trapdoor",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "warped_trapdoor",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "mangrove_trapdoor",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "iron_trapdoor",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "ladder",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "lever",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "stone_button",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "polished_blackstone_button",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "oak_button",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "spruce_button",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "birch_button",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "jungle_button",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "acacia_button",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "dark_oak_button",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "crimson_button",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "warped_button",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "mangrove_button",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "oak_pressure_plate",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "spruce_pressure_plate",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "birch_pressure_plate",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "jungle_pressure_plate",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "acacia_pressure_plate",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "dark_oak_pressure_plate",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "crimson_pressure_plate",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "warped_pressure_plate",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "mangrove_pressure_plate",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "stone_pressure_plate",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "polished_blackstone_pressure_plate",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "light_weighted_pressure_plate",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "heavy_weighted_pressure_plate",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "tripwire_hook",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "tripwire",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "daylight_detector",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "daylight_detector",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "redstone_torch",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "redstone_wall_torch",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "redstone_torch",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "redstone_wire",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "repeater",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "repeater",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "comparator",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "comparator",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "redstone_lamp",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "redstone_lamp",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "dispenser",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "dropper",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "observer",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "hopper",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "target",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "lightning_rod",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "sculk_sensor",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "sculk",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "sculk_catalyst",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "sculk_vein",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "sculk_shrieker",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "command_block",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "repeating_command_block",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "chain_command_block",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "snow",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "snow_block",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "powder_snow",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "ice",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "packed_ice",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "frosted_ice",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "blue_ice",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "cactus",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "clay",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "jukebox",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "oak_fence",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "spruce_fence",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "birch_fence",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "jungle_fence",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "acacia_fence",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "dark_oak_fence",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "crimson_fence",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "warped_fence",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "mangrove_fence",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "oak_fence_gate",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "spruce_fence_gate",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "birch_fence_gate",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "jungle_fence_gate",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "acacia_fence_gate",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "dark_oak_fence_gate",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "crimson_fence_gate",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "warped_fence_gate",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "mangrove_fence_gate",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "nether_brick_fence",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "nether_bricks",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "chiseled_nether_bricks",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "cracked_nether_bricks",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "red_nether_bricks",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "nether_brick_wall",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "red_nether_brick_stairs",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "red_nether_brick_slab",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "red_nether_brick_wall",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "netherrack",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "warped_nylium",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "crimson_nylium",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "soul_sand",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "soul_soil",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "glowstone",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "shroomlight",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "bone_block",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "nether_wart",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "nether_wart_block",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "cake",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "stone_bricks",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "stone_brick_wall",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "mossy_stone_bricks",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "mossy_stone_brick_stairs",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "mossy_stone_brick_slab",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "mossy_stone_brick_wall",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "cracked_stone_bricks",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "chiseled_stone_bricks",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "iron_bars",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "melon",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "melon_stem",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "attached_melon_stem",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "pumpkin",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "carved_pumpkin",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "jack_o_lantern",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "pumpkin_stem",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "attached_pumpkin_stem",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "sweet_berry_bush",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "vine",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "glow_lichen",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "lily_pad",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "enchanting_table",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "brewing_stand",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "cauldron",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "water_cauldron",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "lava_cauldron",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "powder_snow_cauldron",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "end_portal",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "end_portal_frame",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "end_gateway",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "end_stone",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "end_stone_bricks",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "end_stone_brick_stairs",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "end_stone_brick_slab",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "end_stone_brick_wall",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "end_rod",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "purpur_block",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "purpur_pillar",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "purpur_slab",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "purpur_slab",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "beetroots",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "chorus_plant",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "chorus_flower",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "infested_stone",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "infested_stone",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "infested_cobblestone",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "infested_stone_bricks",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "infested_mossy_stone_bricks",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "infested_cracked_stone_bricks",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "infested_chiseled_stone_bricks",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "infested_deepslate",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "oak_slab",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "spruce_slab",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "birch_slab",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "jungle_slab",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "acacia_slab",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "dark_oak_slab",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "crimson_slab",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "warped_slab",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "mangrove_slab",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "smooth_stone_slab",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "sandstone_slab",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "petrified_oak_slab",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "cobblestone_slab",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "brick_slab",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "stone_brick_slab",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "nether_brick_slab",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "quartz_slab",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "red_sandstone_slab",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "cocoa",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "nether_portal",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "anvil",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "chipped_anvil",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "damaged_anvil",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "beacon",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "cobblestone_wall",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "mossy_cobblestone_wall",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "flower_pot",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "potted_oak_sapling",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "potted_spruce_sapling",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "potted_birch_sapling",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "potted_jungle_sapling",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "potted_acacia_sapling",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "potted_dark_oak_sapling",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "potted_mangrove_propagule",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "potted_fern",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "potted_dandelion",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "potted_poppy",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "potted_blue_orchid",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "potted_allium",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "potted_azure_bluet",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "potted_red_tulip",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "potted_orange_tulip",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "potted_white_tulip",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "potted_pink_tulip",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "potted_oxeye_daisy",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "potted_cornflower",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "potted_lily_of_the_valley",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "potted_wither_rose",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "potted_red_mushroom",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "potted_brown_mushroom",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "potted_dead_bush",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "potted_cactus",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "potted_bamboo",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "potted_crimson_fungus",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "potted_warped_fungus",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "potted_crimson_roots",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "potted_warped_roots",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "potted_azalea_bush",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "potted_flowering_azalea_bush",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "carrots",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "potatoes",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "hay_block",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "skeleton_skull",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "wither_skeleton_skull",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "zombie_head",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "player_head",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "creeper_head",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "dragon_head",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "skeleton_wall_skull",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "wither_skeleton_wall_skull",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "zombie_wall_head",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "player_wall_head",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "creeper_wall_head",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "dragon_wall_head",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "white_wool",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "orange_wool",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "magenta_wool",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "light_blue_wool",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "yellow_wool",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "lime_wool",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "pink_wool",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "gray_wool",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "light_gray_wool",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "cyan_wool",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "purple_wool",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "blue_wool",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "brown_wool",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "green_wool",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "red_wool",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "black_wool",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "terracotta",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "white_terracotta",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "white_terracotta",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "orange_terracotta",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "magenta_terracotta",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "light_blue_terracotta",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "yellow_terracotta",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "lime_terracotta",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "pink_terracotta",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "gray_terracotta",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "light_gray_terracotta",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "cyan_terracotta",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "purple_terracotta",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "blue_terracotta",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "brown_terracotta",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "green_terracotta",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "red_terracotta",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "black_terracotta",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "white_glazed_terracotta",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "orange_glazed_terracotta",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "magenta_glazed_terracotta",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "light_blue_glazed_terracotta",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "yellow_glazed_terracotta",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "lime_glazed_terracotta",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "pink_glazed_terracotta",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "gray_glazed_terracotta",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "light_gray_glazed_terracotta",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "cyan_glazed_terracotta",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "purple_glazed_terracotta",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "blue_glazed_terracotta",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "brown_glazed_terracotta",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "green_glazed_terracotta",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "red_glazed_terracotta",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "black_glazed_terracotta",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "white_concrete_powder",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "white_concrete_powder",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "orange_concrete_powder",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "magenta_concrete_powder",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "light_blue_concrete_powder",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "yellow_concrete_powder",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "lime_concrete_powder",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "pink_concrete_powder",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "gray_concrete_powder",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "light_gray_concrete_powder",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "cyan_concrete_powder",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "purple_concrete_powder",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "blue_concrete_powder",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "brown_concrete_powder",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "green_concrete_powder",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "red_concrete_powder",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "black_concrete_powder",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "white_concrete",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "white_concrete",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "orange_concrete",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "magenta_concrete",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "light_blue_concrete",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "yellow_concrete",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "lime_concrete",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "pink_concrete",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "gray_concrete",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "light_gray_concrete",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "cyan_concrete",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "purple_concrete",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "blue_concrete",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "brown_concrete",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "green_concrete",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "red_concrete",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "black_concrete",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "white_carpet",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "orange_carpet",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "magenta_carpet",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "light_blue_carpet",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "yellow_carpet",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "lime_carpet",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "pink_carpet",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "gray_carpet",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "light_gray_carpet",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "cyan_carpet",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "purple_carpet",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "blue_carpet",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "brown_carpet",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "green_carpet",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "red_carpet",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "black_carpet",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "glass",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "tinted_glass",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "white_stained_glass",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "orange_stained_glass",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "magenta_stained_glass",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "light_blue_stained_glass",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "yellow_stained_glass",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "lime_stained_glass",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "pink_stained_glass",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "gray_stained_glass",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "light_gray_stained_glass",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "cyan_stained_glass",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "purple_stained_glass",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "blue_stained_glass",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "brown_stained_glass",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "green_stained_glass",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "red_stained_glass",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "black_stained_glass",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "glass_pane",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "white_stained_glass_pane",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "orange_stained_glass_pane",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "magenta_stained_glass_pane",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "light_blue_stained_glass_pane",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "yellow_stained_glass_pane",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "lime_stained_glass_pane",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "pink_stained_glass_pane",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "gray_stained_glass_pane",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "light_gray_stained_glass_pane",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "cyan_stained_glass_pane",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "purple_stained_glass_pane",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "blue_stained_glass_pane",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "brown_stained_glass_pane",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "green_stained_glass_pane",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "red_stained_glass_pane",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "black_stained_glass_pane",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "sea_lantern",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "prismarine",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "prismarine",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "prismarine_bricks",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "dark_prismarine",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "prismarine_stairs",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "prismarine_brick_stairs",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "dark_prismarine_stairs",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "prismarine_slab",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "prismarine_brick_slab",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "dark_prismarine_slab",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "prismarine_wall",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "shulker_box",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "white_shulker_box",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "orange_shulker_box",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "magenta_shulker_box",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "light_blue_shulker_box",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "yellow_shulker_box",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "lime_shulker_box",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "pink_shulker_box",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "gray_shulker_box",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "light_gray_shulker_box",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "cyan_shulker_box",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "purple_shulker_box",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "blue_shulker_box",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "brown_shulker_box",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "green_shulker_box",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "red_shulker_box",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "black_shulker_box",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "white_banner",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "white_banner",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "orange_banner",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "magenta_banner",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "light_blue_banner",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "yellow_banner",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "lime_banner",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "pink_banner",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "gray_banner",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "light_gray_banner",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "cyan_banner",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "purple_banner",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "blue_banner",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "brown_banner",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "green_banner",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "red_banner",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "black_banner",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "white_wall_banner",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "white_wall_banner",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "orange_wall_banner",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "magenta_wall_banner",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "light_blue_wall_banner",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "yellow_wall_banner",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "lime_wall_banner",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "pink_wall_banner",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "gray_wall_banner",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "light_gray_wall_banner",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "cyan_wall_banner",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "purple_wall_banner",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "blue_wall_banner",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "brown_wall_banner",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "green_wall_banner",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "red_wall_banner",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "black_wall_banner",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "barrier",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "structure_void",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "structure_block",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "structure_block",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "structure_block",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "structure_block",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "structure_block",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "jigsaw",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "kelp",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "kelp_plant",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "seagrass",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "tall_seagrass",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "sea_pickle",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "bamboo_sapling",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "bamboo",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "dead_tube_coral_block",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "dead_brain_coral_block",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "dead_bubble_coral_block",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "dead_fire_coral_block",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "dead_horn_coral_block",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "tube_coral_block",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "brain_coral_block",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "bubble_coral_block",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "fire_coral_block",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "horn_coral_block",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "dead_tube_coral",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "dead_brain_coral",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "dead_bubble_coral",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "dead_fire_coral",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "dead_horn_coral",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "tube_coral",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "brain_coral",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "bubble_coral",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "fire_coral",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "horn_coral",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "dead_tube_coral_fan",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "dead_brain_coral_fan",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "dead_bubble_coral_fan",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "dead_fire_coral_fan",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "dead_horn_coral_fan",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "tube_coral_fan",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "brain_coral_fan",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "bubble_coral_fan",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "fire_coral_fan",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "horn_coral_fan",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "dead_tube_coral_wall_fan",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "dead_brain_coral_wall_fan",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "dead_bubble_coral_wall_fan",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "dead_fire_coral_wall_fan",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "dead_horn_coral_wall_fan",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "tube_coral_wall_fan",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "brain_coral_wall_fan",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "bubble_coral_wall_fan",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "fire_coral_wall_fan",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "horn_coral_wall_fan",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "dried_kelp_block",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "conduit",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "scaffolding",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "bell",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "loom",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "barrel",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "smoker",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "blast_furnace",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "cartography_table",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "fletching_table",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "grindstone",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "lectern",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "smithing_table",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "stonecutter",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "composter",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "beehive",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "bee_nest",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "honey_block",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "honeycomb_block",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "basalt",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "polished_basalt",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "smooth_basalt",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "warped_roots",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "nether_sprouts",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "weeping_vines",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "weeping_vines_plant",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "twisting_vines",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "twisting_vines_plant",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "crimson_roots",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "respawn_anchor",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "lodestone",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "cave_vines",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "cave_vines_plant",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "spore_blossom",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "azalea",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "flowering_azalea",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "big_dripleaf",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "big_dripleaf_stem",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "small_dripleaf",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "hanging_roots",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "ochre_froglight",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "verdant_froglight",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "pearlescent_froglight",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "frogspawn",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "ink_sac",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "glow_ink_sac",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "red_dye",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "green_dye",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "cocoa_beans",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "lapis_lazuli",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "purple_dye",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "cyan_dye",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "light_gray_dye",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "gray_dye",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "pink_dye",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "lime_dye",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "yellow_dye",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "light_blue_dye",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "magenta_dye",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "orange_dye",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "bone_meal",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "black_dye",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "brown_dye",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "blue_dye",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "white_dye",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "coal",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "charcoal",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "raw_iron",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "iron_ingot",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "iron_nugget",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "raw_copper",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "copper_ingot",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "redstone",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "raw_gold",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "gold_ingot",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "gold_nugget",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "diamond",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "netherite_ingot",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "netherite_scrap",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "emerald",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "quartz",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "nether_star",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "prismarine_shard",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "prismarine_crystals",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "heart_of_the_sea",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "nautilus_shell",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "scute",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "phantom_membrane",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "amethyst_shard",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "bow",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "crossbow",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "arrow",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "spectral_arrow",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "tipped_arrow",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "fishing_rod",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "carrot_on_a_stick",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "warped_fungus_on_a_stick",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "compass",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "recovery_compass",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "clock",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "spyglass",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "bundle",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "map",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "filled_map",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "flower_banner_pattern",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "creeper_banner_pattern",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "skull_banner_pattern",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "mojang_banner_pattern",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "globe_banner_pattern",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "piglin_banner_pattern",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "totem_of_undying",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "lead",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "name_tag",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "shield",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "wooden_sword",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "wooden_shovel",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "wooden_pickaxe",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "wooden_axe",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "wooden_hoe",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "stone_sword",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "stone_shovel",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "stone_pickaxe",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "stone_axe",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "stone_hoe",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "iron_sword",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "iron_shovel",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "iron_pickaxe",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "iron_axe",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "iron_hoe",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "flint_and_steel",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "shears",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "golden_sword",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "golden_shovel",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "golden_pickaxe",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "golden_axe",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "golden_hoe",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "diamond_sword",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "diamond_shovel",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "diamond_pickaxe",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "diamond_axe",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "diamond_hoe",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "netherite_sword",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "netherite_shovel",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "netherite_pickaxe",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "netherite_axe",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "netherite_hoe",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "trident",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "leather_helmet",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "leather_chestplate",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "leather_leggings",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "leather_boots",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "chainmail_helmet",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "chainmail_chestplate",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "chainmail_leggings",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "chainmail_boots",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "turtle_helmet",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "iron_helmet",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "iron_chestplate",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "iron_leggings",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "iron_boots",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "golden_helmet",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "golden_chestplate",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "golden_leggings",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "golden_boots",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "diamond_helmet",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "diamond_chestplate",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "diamond_leggings",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "diamond_boots",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "netherite_helmet",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "netherite_chestplate",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "netherite_leggings",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "netherite_boots",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "elytra",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "leather_horse_armor",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "iron_horse_armor",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "golden_horse_armor",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "diamond_horse_armor",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "armor_stand",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "flower_pot",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "black_banner",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "red_banner",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "green_banner",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "brown_banner",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "blue_banner",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "purple_banner",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "cyan_banner",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "light_gray_banner",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "gray_banner",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "pink_banner",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "lime_banner",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "yellow_banner",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "light_blue_banner",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "magenta_banner",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "orange_banner",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "white_banner",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "painting",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "item_frame",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "glow_item_frame",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "oak_sign",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "spruce_sign",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "birch_sign",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "jungle_sign",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "acacia_sign",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "dark_oak_sign",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "crimson_sign",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "warped_sign",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "mangrove_sign",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "oak_door",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "spruce_door",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "birch_door",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "jungle_door",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "acacia_door",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "dark_oak_door",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "iron_door",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "crimson_door",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "warped_door",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "mangrove_door",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "bucket",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "water_bucket",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "pufferfish_bucket",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "salmon_bucket",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "cod_bucket",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "tropical_fish_bucket",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "axolotl_bucket",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "tadpole_bucket",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "lava_bucket",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "milk_bucket",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "powder_snow_bucket",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "minecart",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "chest_minecart",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "furnace_minecart",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "hopper_minecart",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "tnt_minecart",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "command_block_minecart",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "oak_boat",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "spruce_boat",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "birch_boat",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "jungle_boat",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "acacia_boat",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "dark_oak_boat",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "mangrove_boat",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "oak_chest_boat",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "spruce_chest_boat",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "birch_chest_boat",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "jungle_chest_boat",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "acacia_chest_boat",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "dark_oak_chest_boat",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "mangrove_chest_boat",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "repeater",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "comparator",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "apple",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "golden_apple",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "golden_apple",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "enchanted_golden_apple",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "stick",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "debug_stick",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "bowl",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "mushroom_stew",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "suspicious_stew",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "string",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "feather",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "gunpowder",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "wheat_seeds",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "wheat",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "carrot",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "potato",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "baked_potato",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "poisonous_potato",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "pumpkin_pie",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "golden_carrot",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "bread",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "pumpkin_seeds",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "flint",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "leather",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "saddle",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "brick",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "nether_brick",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "clay_ball",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "sugar_cane",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "paper",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "dried_kelp",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "slime_ball",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "egg",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "glowstone_dust",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "bone",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "sugar",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "cake",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "candle_cake",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "white_candle_cake",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "orange_candle_cake",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "magenta_candle_cake",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "light_blue_candle_cake",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "yellow_candle_cake",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "lime_candle_cake",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "pink_candle_cake",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "gray_candle_cake",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "light_gray_candle_cake",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "cyan_candle_cake",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "purple_candle_cake",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "blue_candle_cake",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "brown_candle_cake",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "green_candle_cake",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "red_candle_cake",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "black_candle_cake",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "white_bed",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "cookie",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "melon_slice",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "melon_seeds",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "sweet_berries",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "glow_berries",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "cod",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "salmon",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "tropical_fish",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "pufferfish",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "cooked_cod",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "cooked_salmon",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "porkchop",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "cooked_porkchop",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "beef",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "cooked_beef",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "chicken",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "cooked_chicken",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "rabbit",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "cooked_rabbit",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "rabbit_foot",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "rabbit_hide",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "rabbit_stew",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "mutton",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "cooked_mutton",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "rotten_flesh",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "ender_pearl",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "ender_eye",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "end_crystal",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "shulker_shell",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "chorus_fruit",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "popped_chorus_fruit",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "beetroot",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "beetroot_seeds",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "beetroot_soup",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "ghast_tear",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "nether_wart",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "glass_bottle",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "potion",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "splash_potion",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "lingering_potion",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "dragon_breath",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "spider_eye",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "fermented_spider_eye",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "blaze_rod",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "blaze_powder",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "magma_cream",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "brewing_stand",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "cauldron",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "glistering_melon_slice",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "experience_bottle",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "fire_charge",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "snowball",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "book",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "writable_book",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "written_book",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "enchanted_book",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "knowledge_book",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "music_disc_13",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "music_disc_cat",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "music_disc_blocks",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "music_disc_chirp",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "music_disc_far",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "music_disc_mall",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "music_disc_mellohi",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "music_disc_stal",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "music_disc_strad",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "music_disc_ward",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "music_disc_11",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "music_disc_wait",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "music_disc_otherside",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "music_disc_5",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "music_disc_pigstep",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "disc_fragment_5",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "skeleton_skull",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "wither_skeleton_skull",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "player_head",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "zombie_head",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "creeper_head",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "dragon_head",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "firework_star",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "firework_rocket",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "honeycomb",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "honey_bottle",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "goat_horn",
+      "colleted": false,
+      "collector": null
+    },
+    {
+      "name": "echo_shard",
+      "colleted": false,
+      "collector": null
+    }
+  ]
+}
