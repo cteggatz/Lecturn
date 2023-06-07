@@ -1,0 +1,28 @@
+{
+  "name": "lecturn",
+  "version": "1.0.0",
+  "description": "a discord bot to help run my minecraft museum and the people that donate to it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cteggatz/Lecturn.git"
+  },
+  "keywords": [
+    "Minecraft",
+    "Discord",
+    "Bot"
+  ],
+  "author": "Teggatz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cteggatz/Lecturn/issues"
+  },
+  "homepage": "https://github.com/cteggatz/Lecturn#readme",
+  "dependencies": {
+    "discord.js": "^14.11.0"
+  }
+}
