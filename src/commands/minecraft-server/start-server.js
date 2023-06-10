@@ -1,5 +1,5 @@
 const { SlashCommandBuilder} = require("discord.js");
-const mc = require("minecraft-server-status-simple");
+const mc = require('node-mcstatus');
 const serverInfo = require("../../../serverStatusConfig.json")
 const spawn = require("node:child_process").spawn;
 const {execFile, exec} = require("node:child_process");
@@ -17,13 +17,13 @@ module.exports = {
         .setDescription("returns information about the minecraft server"),
 
     async execute(interaction){
-        mc.statusJava({
-            ip: `${serverInfo["server-ip"]}`,
-            port: serverInfo.port,
-            show: ["online", "players"]
-        })
+        mc.statusJava(
+            `${serverInfo['server-ip']}`,
+            serverInfo.port,
+            {query : true}
+          )
             .then((res) => {
-                if(res.online != true){
+                if(res.online == true){
                     interaction.reply(
                         "server is already online\n" +
                         `**Players** : [${res.players.list}]`
@@ -37,7 +37,22 @@ module.exports = {
                     );
                     return;
                 }
-                startServer(interaction)
+                try{
+                    startServer(interaction)
+                    interaction.reply(
+                        `attempting to start server`
+                    );
+                    startCooldown = true;
+                    setTimeout(() => {
+                        startCooldown = false;
+                    }, 300000);
+                } catch (e) {
+                    console.error(e);
+                    interaction.reply(
+                        `**error** : when starting minecraft process\n` +
+                        "please contact server manager"
+                    );
+                }
             })
             .catch((err) => console.log(`error: ${err}`))
     }
@@ -65,25 +80,13 @@ async function startServer(interaction){
     })
     */
     var address = `${serverInfo["server-file-location"]}`
-    var cmd = "echo 'hello' && cd " +  address + " && dir && java -Xmx2192M -Xms2192M -jar '" + address + "\\server.jar' nogui"
+    var cmd = "echo 'hello' && cd '" +  address + "' &&dir && sh 'run.sh'"
     console.log("going ")
     exec(cmd, (err, stdout, stderr) => {
         if(err){
-            console.error(`error starting process: ${err.message}`)
-            interaction.reply(
-                `**error** : when starting minecraft process\n` +
-                "please contact server manager"
-            );
-            return
+            throw err;
         }
-        
-        console.log(stdout)
-        interaction.reply(
-            `attempting to start server`
-        );
-        startCooldown = true;
-        setTimeout(() => {
-            startCooldown = false;
-        }, 300000);
+        console.log(stdout);
     })
-}
+    
+} 

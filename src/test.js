@@ -1,8 +1,10 @@
-const {execFile} = require("node:child_process");
+const mc = require('node-mcstatus');
+const serverInfo = require("../serverStatusConfig.json");
 
-const child = execFile("node", ["--version"], (error, stdout, stderr) =>{
-    if (error) {
-        throw error;
-      }
-      console.log(stdout);
+mc.statusJava(
+  `${serverInfo['server-ip']}`,
+  serverInfo.port,
+  {query : true}
+).then((results) => {
+  console.log(results.online)
 })
