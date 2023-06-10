@@ -68,7 +68,22 @@ async function startServer(interaction){
     var cmd = "echo 'hello' && cd " +  address + " &&dir && java -Xmx2192M -Xms2192M -jar 'server.jar' nogui"
     console.log("going ")
     exec(cmd, (err, stdout, stderr) => {
-        if(err)console.log(err)
-        console.log(stdout);
+        if(err){
+            console.error(`error starting process: ${err.message}`)
+            interaction.reply(
+                `**error** : when starting minecraft process\n` +
+                "please contact server manager"
+            );
+            return
+        }
+        
+        console.log(stdout)
+        interaction.reply(
+            `attempting to start server`
+        );
+        startCooldown = true;
+        setTimeout(() => {
+            startCooldown = false;
+        }, 300000);
     })
 }
