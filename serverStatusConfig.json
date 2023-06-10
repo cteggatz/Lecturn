@@ -1,8 +1,8 @@
 {
-    "server-ip" : "eastHigh.minecraftr.us",
+    "server-ip" : "",
     "port" : 25565,
 
     
-    "server-file-location" : "C:/Users/categ/Desktop/Minecraft_Servers/test-server",
+    "server-file-location" : "",
     "ramAllocations" : 2192
 }
