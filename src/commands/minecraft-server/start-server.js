@@ -65,7 +65,7 @@ async function startServer(interaction){
     })
     */
     var address = `${serverInfo["server-file-location"]}`
-    var cmd = "echo 'hello' && cd " +  address + " &&dir && java -Xmx2192M -Xms2192M -jar 'server.jar' nogui"
+    var cmd = "echo 'hello' && cd " +  address + " && dir && java -Xmx2192M -Xms2192M -jar '" + address + "\\server.jar' nogui"
     console.log("going ")
     exec(cmd, (err, stdout, stderr) => {
         if(err){
