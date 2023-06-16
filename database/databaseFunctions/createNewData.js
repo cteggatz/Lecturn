@@ -67,7 +67,7 @@ potionEffects.forEach(e => {
     pushData.MuseumDataTable.push(
         {
             name: `splash_potion_of_${e.toLocaleLowerCase()}`,
-            colleted: false,
+            collected: false,
             collector: {
                 name: null,
                 date: null
@@ -77,7 +77,7 @@ potionEffects.forEach(e => {
     pushData.MuseumDataTable.push(
         {
             name: `lingering_potion_of_${e.toLocaleLowerCase()}`,
-            colleted: false,
+            collected: false,
             collector: {
                 name: null,
                 date: null
@@ -87,7 +87,7 @@ potionEffects.forEach(e => {
     pushData.MuseumDataTable.push(
         {
             name: `arrow_of_${e.toLocaleLowerCase()}`,
-            colleted: false,
+            collected: false,
             collector: {
                 name: null,
                 date: null

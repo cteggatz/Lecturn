@@ -1,10 +1,12 @@
+
+
 const mc = require('node-mcstatus');
 const serverInfo = require("../serverStatusConfig.json");
 
 mc.statusJava(
-  `${serverInfo['server-ip']}`,
+  `eastHigh.minecraftr.us`,
   serverInfo.port,
   {query : true}
 ).then((results) => {
-  console.log(results)
+  console.log(results.players)
 })
