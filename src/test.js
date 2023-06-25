@@ -8,5 +8,5 @@ mc.statusJava(
   serverInfo.port,
   {query : true}
 ).then((results) => {
-  console.log(results.players)
+  console.log(results)
 })

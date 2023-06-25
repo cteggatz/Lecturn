@@ -6,6 +6,7 @@ module.exports = {
     .setDescription("replies with pong"),
 
     async execute(interaction){
-        await interaction.reply("pong")
+        //console.log(interaction)
+        await interaction.reply(`${interaction.user.avatarURL()}`)
     }
 }

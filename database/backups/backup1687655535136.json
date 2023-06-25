@@ -2,34 +2,34 @@
   "MuseumDataTable": [
     {
       "name": "air",
-      "collected": false,
+      "collected": true,
       "collector": {
-        "name": null,
-        "date": null
+        "name": "teggatz",
+        "date": "[4/5/2023]"
       }
     },
     {
       "name": "void_air",
-      "collected": false,
+      "collected": true,
       "collector": {
-        "name": null,
-        "date": null
+        "name": "parzival801",
+        "date": "[1/5/2023]"
       }
     },
     {
       "name": "cave_air",
-      "collected": false,
+      "collected": true,
       "collector": {
-        "name": null,
-        "date": null
+        "name": "parzival801",
+        "date": "[1/5/2023]"
       }
     },
     {
       "name": "stone",
-      "collected": false,
+      "collected": true,
       "collector": {
-        "name": null,
-        "date": null
+        "name": "teggatz",
+        "date": "[4/5/2023]"
       }
     },
     {
@@ -450,10 +450,10 @@
     },
     {
       "name": "dirt",
-      "collected": false,
+      "collected": true,
       "collector": {
-        "name": null,
-        "date": null
+        "name": "teggatz",
+        "date": "6/15"
       }
     },
     {
@@ -546,10 +546,10 @@
     },
     {
       "name": "mossy_cobblestone",
-      "collected": false,
+      "collected": true,
       "collector": {
-        "name": null,
-        "date": null
+        "name": "teggatz",
+        "date": "[5/5/2023]"
       }
     },
     {
@@ -714,10 +714,10 @@
     },
     {
       "name": "sugar_cane",
-      "collected": false,
+      "collected": true,
       "collector": {
-        "name": null,
-        "date": null
+        "name": "parzival801",
+        "date": "[1/5/2023]"
       }
     },
     {
@@ -746,10 +746,10 @@
     },
     {
       "name": "gravel",
-      "collected": false,
+      "collected": true,
       "collector": {
-        "name": null,
-        "date": null
+        "name": "teggatz",
+        "date": "6/15"
       }
     },
     {
@@ -1962,10 +1962,10 @@
     },
     {
       "name": "sponge",
-      "collected": false,
+      "collected": true,
       "collector": {
-        "name": null,
-        "date": null
+        "name": "3d7b7d8592f7417f941c23470d73fda1",
+        "date": "[1/5/2023]"
       }
     },
     {
@@ -1978,10 +1978,10 @@
     },
     {
       "name": "wet_sponge",
-      "collected": false,
+      "collected": true,
       "collector": {
-        "name": null,
-        "date": null
+        "name": "parzival801",
+        "date": "[1/5/2023]"
       }
     },
     {
@@ -2562,10 +2562,10 @@
     },
     {
       "name": "brown_mushroom_block",
-      "collected": false,
+      "collected": true,
       "collector": {
-        "name": null,
-        "date": null
+        "name": "3d7b7d8592f7417f941c23470d73fda1",
+        "date": "[1/5/2023]"
       }
     },
     {
@@ -4154,10 +4154,10 @@
     },
     {
       "name": "cake",
-      "collected": false,
+      "collected": true,
       "collector": {
-        "name": null,
-        "date": null
+        "name": "3d7b7d8592f7417f941c23470d73fda1",
+        "date": "[1/5/2023]"
       }
     },
     {
@@ -9218,10 +9218,10 @@
     },
     {
       "name": "enchanted_golden_apple",
-      "collected": false,
+      "collected": true,
       "collector": {
-        "name": null,
-        "date": null
+        "name": "3d7b7d8592f7417f941c23470d73fda1",
+        "date": "[1/5/2023]"
       }
     },
     {
@@ -10298,7 +10298,7 @@
     },
     {
       "name": "splash_potion_of_healing",
-      "colleted": false,
+      "collected": false,
       "collector": {
         "name": null,
         "date": null
@@ -10306,7 +10306,7 @@
     },
     {
       "name": "lingering_potion_of_healing",
-      "colleted": false,
+      "collected": false,
       "collector": {
         "name": null,
         "date": null
@@ -10314,7 +10314,7 @@
     },
     {
       "name": "arrow_of_healing",
-      "colleted": false,
+      "collected": false,
       "collector": {
         "name": null,
         "date": null
@@ -10330,7 +10330,7 @@
     },
     {
       "name": "splash_potion_of_strength",
-      "colleted": false,
+      "collected": false,
       "collector": {
         "name": null,
         "date": null
@@ -10338,7 +10338,7 @@
     },
     {
       "name": "lingering_potion_of_strength",
-      "colleted": false,
+      "collected": false,
       "collector": {
         "name": null,
         "date": null
@@ -10346,7 +10346,7 @@
     },
     {
       "name": "arrow_of_strength",
-      "colleted": false,
+      "collected": false,
       "collector": {
         "name": null,
         "date": null
@@ -10362,7 +10362,7 @@
     },
     {
       "name": "splash_potion_of_fire_resistance",
-      "colleted": false,
+      "collected": false,
       "collector": {
         "name": null,
         "date": null
@@ -10370,7 +10370,7 @@
     },
     {
       "name": "lingering_potion_of_fire_resistance",
-      "colleted": false,
+      "collected": false,
       "collector": {
         "name": null,
         "date": null
@@ -10378,7 +10378,7 @@
     },
     {
       "name": "arrow_of_fire_resistance",
-      "colleted": false,
+      "collected": false,
       "collector": {
         "name": null,
         "date": null
@@ -10394,7 +10394,7 @@
     },
     {
       "name": "splash_potion_of_swiftness",
-      "colleted": false,
+      "collected": false,
       "collector": {
         "name": null,
         "date": null
@@ -10402,7 +10402,7 @@
     },
     {
       "name": "lingering_potion_of_swiftness",
-      "colleted": false,
+      "collected": false,
       "collector": {
         "name": null,
         "date": null
@@ -10410,7 +10410,7 @@
     },
     {
       "name": "arrow_of_swiftness",
-      "colleted": false,
+      "collected": false,
       "collector": {
         "name": null,
         "date": null
@@ -10426,7 +10426,7 @@
     },
     {
       "name": "splash_potion_of_night_vision",
-      "colleted": false,
+      "collected": false,
       "collector": {
         "name": null,
         "date": null
@@ -10434,7 +10434,7 @@
     },
     {
       "name": "lingering_potion_of_night_vision",
-      "colleted": false,
+      "collected": false,
       "collector": {
         "name": null,
         "date": null
@@ -10442,7 +10442,7 @@
     },
     {
       "name": "arrow_of_night_vision",
-      "colleted": false,
+      "collected": false,
       "collector": {
         "name": null,
         "date": null
@@ -10458,7 +10458,7 @@
     },
     {
       "name": "splash_potion_of_invisibility",
-      "colleted": false,
+      "collected": false,
       "collector": {
         "name": null,
         "date": null
@@ -10466,7 +10466,7 @@
     },
     {
       "name": "lingering_potion_of_invisibility",
-      "colleted": false,
+      "collected": false,
       "collector": {
         "name": null,
         "date": null
@@ -10474,7 +10474,7 @@
     },
     {
       "name": "arrow_of_invisibility",
-      "colleted": false,
+      "collected": false,
       "collector": {
         "name": null,
         "date": null
@@ -10490,7 +10490,7 @@
     },
     {
       "name": "splash_potion_of_water_breathing",
-      "colleted": false,
+      "collected": false,
       "collector": {
         "name": null,
         "date": null
@@ -10498,7 +10498,7 @@
     },
     {
       "name": "lingering_potion_of_water_breathing",
-      "colleted": false,
+      "collected": false,
       "collector": {
         "name": null,
         "date": null
@@ -10506,7 +10506,7 @@
     },
     {
       "name": "arrow_of_water_breathing",
-      "colleted": false,
+      "collected": false,
       "collector": {
         "name": null,
         "date": null
@@ -10522,7 +10522,7 @@
     },
     {
       "name": "splash_potion_of_leaping",
-      "colleted": false,
+      "collected": false,
       "collector": {
         "name": null,
         "date": null
@@ -10530,7 +10530,7 @@
     },
     {
       "name": "lingering_potion_of_leaping",
-      "colleted": false,
+      "collected": false,
       "collector": {
         "name": null,
         "date": null
@@ -10538,7 +10538,7 @@
     },
     {
       "name": "arrow_of_leaping",
-      "colleted": false,
+      "collected": false,
       "collector": {
         "name": null,
         "date": null
@@ -10554,7 +10554,7 @@
     },
     {
       "name": "splash_potion_of_slow_falling",
-      "colleted": false,
+      "collected": false,
       "collector": {
         "name": null,
         "date": null
@@ -10562,7 +10562,7 @@
     },
     {
       "name": "lingering_potion_of_slow_falling",
-      "colleted": false,
+      "collected": false,
       "collector": {
         "name": null,
         "date": null
@@ -10570,7 +10570,7 @@
     },
     {
       "name": "arrow_of_slow_falling",
-      "colleted": false,
+      "collected": false,
       "collector": {
         "name": null,
         "date": null
@@ -10586,7 +10586,7 @@
     },
     {
       "name": "splash_potion_of_poison",
-      "colleted": false,
+      "collected": false,
       "collector": {
         "name": null,
         "date": null
@@ -10594,7 +10594,7 @@
     },
     {
       "name": "lingering_potion_of_poison",
-      "colleted": false,
+      "collected": false,
       "collector": {
         "name": null,
         "date": null
@@ -10602,7 +10602,7 @@
     },
     {
       "name": "arrow_of_poison",
-      "colleted": false,
+      "collected": false,
       "collector": {
         "name": null,
         "date": null
@@ -10618,7 +10618,7 @@
     },
     {
       "name": "splash_potion_of_weakness",
-      "colleted": false,
+      "collected": false,
       "collector": {
         "name": null,
         "date": null
@@ -10626,7 +10626,7 @@
     },
     {
       "name": "lingering_potion_of_weakness",
-      "colleted": false,
+      "collected": false,
       "collector": {
         "name": null,
         "date": null
@@ -10634,7 +10634,7 @@
     },
     {
       "name": "arrow_of_weakness",
-      "colleted": false,
+      "collected": false,
       "collector": {
         "name": null,
         "date": null
@@ -10650,7 +10650,7 @@
     },
     {
       "name": "splash_potion_of_harming",
-      "colleted": false,
+      "collected": false,
       "collector": {
         "name": null,
         "date": null
@@ -10658,7 +10658,7 @@
     },
     {
       "name": "lingering_potion_of_harming",
-      "colleted": false,
+      "collected": false,
       "collector": {
         "name": null,
         "date": null
@@ -10666,7 +10666,7 @@
     },
     {
       "name": "arrow_of_harming",
-      "colleted": false,
+      "collected": false,
       "collector": {
         "name": null,
         "date": null
@@ -10682,7 +10682,7 @@
     },
     {
       "name": "splash_potion_of_slowness",
-      "colleted": false,
+      "collected": false,
       "collector": {
         "name": null,
         "date": null
@@ -10690,7 +10690,7 @@
     },
     {
       "name": "lingering_potion_of_slowness",
-      "colleted": false,
+      "collected": false,
       "collector": {
         "name": null,
         "date": null
@@ -10698,7 +10698,7 @@
     },
     {
       "name": "arrow_of_slowness",
-      "colleted": false,
+      "collected": false,
       "collector": {
         "name": null,
         "date": null
@@ -10714,7 +10714,7 @@
     },
     {
       "name": "splash_potion_of_the_turtle_master",
-      "colleted": false,
+      "collected": false,
       "collector": {
         "name": null,
         "date": null
@@ -10722,7 +10722,7 @@
     },
     {
       "name": "lingering_potion_of_the_turtle_master",
-      "colleted": false,
+      "collected": false,
       "collector": {
         "name": null,
         "date": null
@@ -10730,7 +10730,7 @@
     },
     {
       "name": "arrow_of_the_turtle_master",
-      "colleted": false,
+      "collected": false,
       "collector": {
         "name": null,
         "date": null

@@ -10,18 +10,18 @@
     },
     {
       "name": "void_air",
-      "collected": true,
+      "collected": false,
       "collector": {
-        "name": "parzival801",
-        "date": "[1/5/2023]"
+        "name": null,
+        "date": null
       }
     },
     {
       "name": "cave_air",
-      "collected": true,
+      "collected": false,
       "collector": {
-        "name": "parzival801",
-        "date": "[1/5/2023]"
+        "name": null,
+        "date": null
       }
     },
     {
@@ -34,10 +34,10 @@
     },
     {
       "name": "stone_stairs",
-      "collected": true,
+      "collected": false,
       "collector": {
-        "name": "teggatz",
-        "date": "[6/5/2023]"
+        "name": null,
+        "date": null
       }
     },
     {
@@ -714,10 +714,10 @@
     },
     {
       "name": "sugar_cane",
-      "collected": true,
+      "collected": false,
       "collector": {
-        "name": "parzival801",
-        "date": "[1/5/2023]"
+        "name": null,
+        "date": null
       }
     },
     {
@@ -1962,10 +1962,10 @@
     },
     {
       "name": "sponge",
-      "collected": true,
+      "collected": false,
       "collector": {
-        "name": "3d7b7d8592f7417f941c23470d73fda1",
-        "date": "[1/5/2023]"
+        "name": null,
+        "date": null
       }
     },
     {
@@ -1978,10 +1978,10 @@
     },
     {
       "name": "wet_sponge",
-      "collected": true,
+      "collected": false,
       "collector": {
-        "name": "parzival801",
-        "date": "[1/5/2023]"
+        "name": null,
+        "date": null
       }
     },
     {
@@ -2562,10 +2562,10 @@
     },
     {
       "name": "brown_mushroom_block",
-      "collected": true,
+      "collected": false,
       "collector": {
-        "name": "3d7b7d8592f7417f941c23470d73fda1",
-        "date": "[1/5/2023]"
+        "name": null,
+        "date": null
       }
     },
     {
@@ -4154,10 +4154,10 @@
     },
     {
       "name": "cake",
-      "collected": true,
+      "collected": false,
       "collector": {
-        "name": "3d7b7d8592f7417f941c23470d73fda1",
-        "date": "[1/5/2023]"
+        "name": null,
+        "date": null
       }
     },
     {
@@ -9218,10 +9218,10 @@
     },
     {
       "name": "enchanted_golden_apple",
-      "collected": true,
+      "collected": false,
       "collector": {
-        "name": "3d7b7d8592f7417f941c23470d73fda1",
-        "date": "[1/5/2023]"
+        "name": null,
+        "date": null
       }
     },
     {

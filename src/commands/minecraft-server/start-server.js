@@ -12,6 +12,7 @@ let startCooldown = false;
 
 
 module.exports = {
+    cooldown:5,
     data: new SlashCommandBuilder()
         .setName("start-server")
         .setDescription("returns information about the minecraft server"),
@@ -24,10 +25,18 @@ module.exports = {
           )
             .then((res) => {
                 if(res.online == true){
-                    interaction.reply(
-                        "server is already online\n" +
-                        `**Players** : [${res.players.list}]`
-                    )
+                    let playerNameList = new Array();
+                for(const player of res.players.list){
+                    playerNameList.push(player.name_raw)
+                }
+
+
+                interaction.reply(
+                    `The server is already Online\n` + 
+                    `-------------------------------------\n` + 
+                    `Server Status: [**Online**] :green_square:\n` +
+                    `Online Players: [${playerNameList}]`
+                );
                     return;
                 }
                 if(startCooldown == true){
