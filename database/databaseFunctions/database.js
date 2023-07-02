@@ -13,9 +13,6 @@ module.exports = class database{
         console.error("this item has already been collected")
     }
 
-
-
-
     //retrieves an item from the database by Name;
     static getItem(item){
         for(let element of database.data.MuseumDataTable){
@@ -85,6 +82,15 @@ module.exports = class database{
         }
         return done;
     }
+    static getIndividualContribution(name){
+        let done = 0;
+        for(let item of database.data.MuseumDataTable){
+            if(item.collected == true && item.collector.name == name){
+                done++;
+            }
+        }
+        return done;
+    }
     //returns a map of all the players that have contributed to the museum and what they have done
     static getPlayerContributions(){
         let players = new Map();
@@ -99,9 +105,12 @@ module.exports = class database{
             }
         }
         
-        return [...players.entries()].sort((a, b) => b[0] - a[0]);
+        let rtrArray = [...players.entries()].sort((a, b) => {b[1] - a[1]});
+        console.log(rtrArray)
+
+        return rtrArray
     }
-    static getPercentageDone(){return (database.getNumberOfContributed()/database.data.MuseumDataTable.length*100).toFixed(2);}
+    static getPercentageDone(){return (database.getNumberOfContributed()/database.data.MuseumDataTable.length*100).toFixed(1);}
     static updateItem(item, collector, date){
 
         database.createBackup();
@@ -127,6 +136,34 @@ module.exports = class database{
             throw e;
         }
         return true;
+    }
+
+
+    /* ----- catagories -----*/
+
+    //returns a list of all items from a catagory
+    static getCatagory(cat){
+        let rtnList = new Array();
+
+        for(let el of database.data.MuseumDataTable){
+            if(el.catagory === cat){
+                rtnList.push(el)
+            }
+        }
+
+
+        return rtnList;
+    }
+    //returns a list off all collected items from a catagory
+    static getCollectedCatagory(cat){
+        let rtnList = new Array();
+
+        for(let el of database.data.MuseumDataTable){
+            if(el.catagory === cat && el.collected == true){
+                rtnList.push(el)
+            }
+        }
+        return rtnList;
     }
     
 }

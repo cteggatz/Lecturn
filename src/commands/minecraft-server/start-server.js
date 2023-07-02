@@ -18,7 +18,11 @@ module.exports = {
         .setDescription("returns information about the minecraft server"),
 
     async execute(interaction){
-        mc.statusJava(
+        interaction.reply("this command is temporarly offline until we can integrate it into the server. My dev **Teggatz** was just too lazy to remove it from the listing")
+
+
+        /*
+mc.statusJava(
             `${serverInfo['server-ip']}`,
             serverInfo.port,
             {query : true}
@@ -64,6 +68,7 @@ module.exports = {
                 }
             })
             .catch((err) => console.log(`error: ${err}`))
+        */
     }
 }
 async function startServer(interaction){

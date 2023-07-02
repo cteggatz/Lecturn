@@ -29,7 +29,6 @@ Polished Andesite Stairs 	polished_andesite_stairs 	Minecraft Polished Andesite 
 Polished Andesite Slab 	polished_andesite_slab 	Minecraft Polished Andesite Slab
 Smooth Stone 	smooth_stone 	Minecraft Smooth Stone
 Deepslate 	deepslate 	Minecraft Deepslate
-Reinforced Deepslate 	reinforced_deepslate 	Minecraft Reinforced Deepslate
 Cobbled Deepslate 	cobbled_deepslate 	Minecraft Cobbled Deepslate
 Cobbled Deepslate Stairs 	cobbled_deepslate_stairs 	Minecraft Cobbled Deepslate Stairs
 Cobbled Deepslate Slab 	cobbled_deepslate_slab 	Minecraft Cobbled Deepslate Slab
@@ -92,14 +91,12 @@ Acacia Sapling 	acacia_sapling 	Minecraft Acacia Sapling
 Dark Oak Sapling 	dark_oak_sapling 	Minecraft Dark Oak Sapling
 Mangrove Propagule 	mangrove_propagule 	Minecraft Mangrove Propagule
 Sugar Cane 	sugar_cane 	Minecraft Sugar Cane
-Bedrock 	bedrock 	Minecraft Bedrock
 Any Sand 	#minecraft:sand 	Minecraft Any Sand
 Sand 	sand 	Minecraft Sand
 Red Sand 	red_sand 	Minecraft Red Sand
 Gravel 	gravel 	Minecraft Gravel
 Water 	water 	Minecraft Water
 Water Still 	water 	Minecraft Water Still
-Bubble Column 	bubble_column 	Minecraft Bubble Column
 Lava 	lava 	Minecraft Lava
 Lava Still 	lava 	Minecraft Lava Still
 Magma Block 	magma_block 	Minecraft Magma Block
@@ -193,17 +190,14 @@ Smooth Quartz Slab 	smooth_quartz_slab 	Minecraft Smooth Quartz Slab
 Slime Block 	slime_block 	Minecraft Slime Block
 Ancient Debris 	ancient_debris 	Minecraft Ancient Debris
 Amethyst Block 	amethyst_block 	Minecraft Amethyst Block
-Budding Amethyst 	budding_amethyst 	Minecraft Budding Amethyst
 Amethyst Cluster 	amethyst_cluster 	Minecraft Amethyst Cluster
 Large Amethyst Bud 	large_amethyst_bud 	Minecraft Large Amethyst Bud
 Medium Amethyst Bud 	medium_amethyst_bud 	Minecraft Medium Amethyst Bud
 Small Amethyst Bud 	small_amethyst_bud 	Minecraft Small Amethyst Bud
-Oak/Spruce/Birch/Jungle Wood 	oak_log 	Minecraft Oak/Spruce/Birch/Jungle Wood
 Oak Wood 	oak_log 	Minecraft Oak Wood
 Spruce Wood 	spruce_log 	Minecraft Spruce Wood
 Birch Wood 	birch_log 	Minecraft Birch Wood
 Jungle Wood 	jungle_log 	Minecraft Jungle Wood
-Acacia/Dark Oak Wood 	acacia_log 	Minecraft Acacia/Dark Oak Wood
 Acacia Wood 	acacia_log 	Minecraft Acacia Wood
 Dark Oak Wood 	dark_oak_log 	Minecraft Dark Oak Wood
 Warped Stem 	warped_stem 	Minecraft Warped Stem
@@ -301,8 +295,6 @@ Tall Grass 	grass 	Minecraft Tall Grass
 Fern 	fern 	Minecraft Fern
 Piston 	piston 	Minecraft Piston
 Sticky Piston 	sticky_piston 	Minecraft Sticky Piston
-Piston Head 	piston_head 	Minecraft Piston Head
-Piston Extension 	moving_piston 	Minecraft Piston Extension
 Dandelion 	dandelion 	Minecraft Dandelion
 Any Flower 	#minecraft:small_flowers 	Minecraft Any Flower
 Poppy 	poppy 	Minecraft Poppy
@@ -321,7 +313,6 @@ Any Large Flower 	#minecraft:small_flowers 	Minecraft Any Large Flower
 Sunflower 	sunflower 	Minecraft Sunflower
 Lilac 	lilac 	Minecraft Lilac
 Double Tallgrass 	tall_grass 	Minecraft Double Tallgrass
-Large Fern 	large_fern 	Minecraft Large Fern
 Rose Bush 	rose_bush 	Minecraft Rose Bush
 Peony 	peony 	Minecraft Peony
 Brown Mushroom 	brown_mushroom 	Minecraft Brown Mushroom
@@ -365,7 +356,6 @@ Brown Candle 	brown_candle 	Minecraft Brown Candle
 Green Candle 	green_candle 	Minecraft Green Candle
 Red Candle 	red_candle 	Minecraft Red Candle
 Black Candle 	black_candle 	Minecraft Black Candle
-Light Block 	light 	Minecraft Light Block
 Mob Spawner 	spawner 	Minecraft Mob Spawner
 Oak Stairs 	oak_stairs 	Minecraft Oak Stairs
 Spruce Stairs 	spruce_stairs 	Minecraft Spruce Stairs
@@ -478,9 +468,6 @@ Sculk 	sculk 	Minecraft Sculk
 Sculk Catalyst 	sculk_catalyst 	Minecraft Sculk Catalyst
 Sculk Vein 	sculk_vein 	Minecraft Sculk Vein
 Sculk Shrieker 	sculk_shrieker 	Minecraft Sculk Shrieker
-Command Block 	command_block 	Minecraft Command Block
-Command Block Repeating 	repeating_command_block 	Minecraft Command Block Repeating
-Command Block Chain 	chain_command_block 	Minecraft Command Block Chain
 Snow 	snow 	Minecraft Snow
 Snow 	snow_block 	Minecraft Snow
 Powder Snow 	powder_snow 	Minecraft Powder Snow
@@ -541,12 +528,10 @@ Chiseled Stone Bricks 	chiseled_stone_bricks 	Minecraft Chiseled Stone Bricks
 Iron Bars 	iron_bars 	Minecraft Iron Bars
 Melon Block 	melon 	Minecraft Melon Block
 Melon Stem 	melon_stem 	Minecraft Melon Stem
-Attached Melon Stem 	attached_melon_stem 	Minecraft Attached Melon Stem
 Pumpkin 	pumpkin 	Minecraft Pumpkin
 Carved Pumpkin 	carved_pumpkin 	Minecraft Carved Pumpkin
 Jack o'Lantern 	jack_o_lantern 	Minecraft Jack o
 Pumpkin Stem 	pumpkin_stem 	Minecraft Pumpkin Stem
-Attached Pumpkin Stem 	attached_pumpkin_stem 	Minecraft Attached Pumpkin Stem
 Sweet Berry Bush 	sweet_berry_bush 	Minecraft Sweet Berry Bush
 Vines 	vine 	Minecraft Vines
 Glow Lichen 	glow_lichen 	Minecraft Glow Lichen
@@ -557,8 +542,6 @@ Cauldron 	cauldron 	Minecraft Cauldron
 Water Cauldron 	water_cauldron 	Minecraft Water Cauldron
 Lava Cauldron 	lava_cauldron 	Minecraft Lava Cauldron
 Powder Snow Cauldron 	powder_snow_cauldron 	Minecraft Powder Snow Cauldron
-End Portal Block 	end_portal 	Minecraft End Portal Block
-End Portal Frame 	end_portal_frame 	Minecraft End Portal Frame
 End Gateway 	end_gateway 	Minecraft End Gateway
 End Stone 	end_stone 	Minecraft End Stone
 End Stone Bricks 	end_stone_bricks 	Minecraft End Stone Bricks
@@ -603,7 +586,6 @@ Nether Brick Slab 	nether_brick_slab 	Minecraft Nether Brick Slab
 Quartz Slab 	quartz_slab 	Minecraft Quartz Slab
 Red Sandstone Slab 	red_sandstone_slab 	Minecraft Red Sandstone Slab
 Cocoa Block 	cocoa 	Minecraft Cocoa Block
-Nether Portal Block 	nether_portal 	Minecraft Nether Portal Block
 Any Anvil 	#minecraft:anvil 	Minecraft Any Anvil
 Anvil 	anvil 	Minecraft Anvil
 Chipped Anvil 	chipped_anvil 	Minecraft Chipped Anvil
@@ -652,7 +634,6 @@ Any Skull 	#forge:heads 	Minecraft Any Skull
 Skeleton Skull 	skeleton_skull 	Minecraft Skeleton Skull
 Wither Skeleton Skull 	wither_skeleton_skull 	Minecraft Wither Skeleton Skull
 Zombie Head 	zombie_head 	Minecraft Zombie Head
-Head 	player_head 	Minecraft Head
 Creeper Head 	creeper_head 	Minecraft Creeper Head
 Dragon Head 	dragon_head 	Minecraft Dragon Head
 Skeleton Wall Skull 	skeleton_wall_skull 	Minecraft Skeleton Wall Skull
@@ -712,7 +693,6 @@ Brown Glazed Terracotta 	brown_glazed_terracotta 	Minecraft Brown Glazed Terraco
 Green Glazed Terracotta 	green_glazed_terracotta 	Minecraft Green Glazed Terracotta
 Red Glazed Terracotta 	red_glazed_terracotta 	Minecraft Red Glazed Terracotta
 Black Glazed Terracotta 	black_glazed_terracotta 	Minecraft Black Glazed Terracotta
-Any Concrete Powder 	white_concrete_powder 	Minecraft Any Concrete Powder
 White Concrete Powder 	white_concrete_powder 	Minecraft White Concrete Powder
 Orange Concrete Powder 	orange_concrete_powder 	Minecraft Orange Concrete Powder
 Magenta Concrete Powder 	magenta_concrete_powder 	Minecraft Magenta Concrete Powder
@@ -729,7 +709,6 @@ Brown Concrete Powder 	brown_concrete_powder 	Minecraft Brown Concrete Powder
 Green Concrete Powder 	green_concrete_powder 	Minecraft Green Concrete Powder
 Red Concrete Powder 	red_concrete_powder 	Minecraft Red Concrete Powder
 Black Concrete Powder 	black_concrete_powder 	Minecraft Black Concrete Powder
-Any Concrete 	white_concrete 	Minecraft Any Concrete
 White Concrete 	white_concrete 	Minecraft White Concrete
 Orange Concrete 	orange_concrete 	Minecraft Orange Concrete
 Magenta Concrete 	magenta_concrete 	Minecraft Magenta Concrete
@@ -829,48 +808,6 @@ Brown Shulker Box 	brown_shulker_box 	Minecraft Brown Shulker Box
 Green Shulker Box 	green_shulker_box 	Minecraft Green Shulker Box
 Red Shulker Box 	red_shulker_box 	Minecraft Red Shulker Box
 Black Shulker Box 	black_shulker_box 	Minecraft Black Shulker Box
-Standing Banner 	white_banner 	Minecraft Standing Banner
-White Banner 	white_banner 	Minecraft White Banner
-Orange Banner 	orange_banner 	Minecraft Orange Banner
-Magenta Banner 	magenta_banner 	Minecraft Magenta Banner
-Light Blue Banner 	light_blue_banner 	Minecraft Light Blue Banner
-Yellow Banner 	yellow_banner 	Minecraft Yellow Banner
-Lime Banner 	lime_banner 	Minecraft Lime Banner
-Pink Banner 	pink_banner 	Minecraft Pink Banner
-Gray Banner 	gray_banner 	Minecraft Gray Banner
-Light Gray Banner 	light_gray_banner 	Minecraft Light Gray Banner
-Cyan Banner 	cyan_banner 	Minecraft Cyan Banner
-Purple Banner 	purple_banner 	Minecraft Purple Banner
-Blue Banner 	blue_banner 	Minecraft Blue Banner
-Brown Banner 	brown_banner 	Minecraft Brown Banner
-Green Banner 	green_banner 	Minecraft Green Banner
-Red Banner 	red_banner 	Minecraft Red Banner
-Black Banner 	black_banner 	Minecraft Black Banner
-Wall Banner 	white_wall_banner 	Minecraft Wall Banner
-White Wall Banner 	white_wall_banner 	Minecraft White Wall Banner
-Orange Wall Banner 	orange_wall_banner 	Minecraft Orange Wall Banner
-Magenta Wall Banner 	magenta_wall_banner 	Minecraft Magenta Wall Banner
-Light Blue Wall Banner 	light_blue_wall_banner 	Minecraft Light Blue Wall Banner
-Yellow Wall Banner 	yellow_wall_banner 	Minecraft Yellow Wall Banner
-Lime Wall Banner 	lime_wall_banner 	Minecraft Lime Wall Banner
-Pink Wall Banner 	pink_wall_banner 	Minecraft Pink Wall Banner
-Gray Wall Banner 	gray_wall_banner 	Minecraft Gray Wall Banner
-Light Gray Wall Banner 	light_gray_wall_banner 	Minecraft Light Gray Wall Banner
-Cyan Wall Banner 	cyan_wall_banner 	Minecraft Cyan Wall Banner
-Purple Wall Banner 	purple_wall_banner 	Minecraft Purple Wall Banner
-Blue Wall Banner 	blue_wall_banner 	Minecraft Blue Wall Banner
-Brown Wall Banner 	brown_wall_banner 	Minecraft Brown Wall Banner
-Green Wall Banner 	green_wall_banner 	Minecraft Green Wall Banner
-Red Wall Banner 	red_wall_banner 	Minecraft Red Wall Banner
-Black Wall Banner 	black_wall_banner 	Minecraft Black Wall Banner
-Barrier 	barrier 	Minecraft Barrier
-Structure Void 	structure_void 	Minecraft Structure Void
-Structure Block 	structure_block 	Minecraft Structure Block
-Structure Block (Data) 	structure_block 	Minecraft Structure Block (Data)
-Structure Block (Save) 	structure_block 	Minecraft Structure Block (Save)
-Structure Block (Load) 	structure_block 	Minecraft Structure Block (Load)
-Structure Block (Corner) 	structure_block 	Minecraft Structure Block (Corner)
-Jigsaw 	jigsaw 	Minecraft Jigsaw
 Kelp 	kelp 	Minecraft Kelp
 Kelp Plant 	kelp_plant 	Minecraft Kelp Plant
 Seagrass 	seagrass 	Minecraft Seagrass
@@ -1024,7 +961,6 @@ Clock 	clock 	Minecraft Clock
 Spyglass 	spyglass 	Minecraft Spyglass
 Bundle 	bundle 	Minecraft Bundle
 Empty Map 	map 	Minecraft Empty Map
-Map 	filled_map 	Minecraft Map
 Banner Pattern 	flower_banner_pattern 	Minecraft Banner Pattern
 Banner Pattern 	creeper_banner_pattern 	Minecraft Banner Pattern
 Banner Pattern 	skull_banner_pattern 	Minecraft Banner Pattern
@@ -1155,7 +1091,6 @@ Minecart with Chest 	chest_minecart 	Minecraft Minecart with Chest
 Minecart with Furnace 	furnace_minecart 	Minecraft Minecart with Furnace
 Minecart with Hopper 	hopper_minecart 	Minecraft Minecart with Hopper
 Minecart with TNT 	tnt_minecart 	Minecraft Minecart with TNT
-Minecart with Command Block 	command_block_minecart 	Minecraft Minecart with Command Block
 Oak Boat 	oak_boat 	Minecraft Oak Boat
 Spruce Boat 	spruce_boat 	Minecraft Spruce Boat
 Birch Boat 	birch_boat 	Minecraft Birch Boat
@@ -1177,7 +1112,6 @@ Any Golden Apple 	golden_apple 	Minecraft Any Golden Apple
 Golden Apple 	golden_apple 	Minecraft Golden Apple
 Enchanted Golden Apple 	enchanted_golden_apple 	Minecraft Enchanted Golden Apple
 Stick 	stick 	Minecraft Stick
-Debug Stick 	debug_stick 	Minecraft Debug Stick
 Bowl 	bowl 	Minecraft Bowl
 Mushroom Stew 	mushroom_stew 	Minecraft Mushroom Stew
 Suspicious Stew 	suspicious_stew 	Minecraft Suspicious Stew
@@ -1357,8 +1291,6 @@ Snowball 	snowball 	Minecraft Snowball
 Book 	book 	Minecraft Book
 Writable Book 	writable_book 	Minecraft Writable Book
 Written Book 	written_book 	Minecraft Written Book
-Enchanted Book 	enchanted_book 	Minecraft Enchanted Book
-Knowledge Book 	knowledge_book 	Minecraft Knowledge Book
 Music Disc 	music_disc_13 	Minecraft Music Disc
 Music Disc 	music_disc_cat 	Minecraft Music Disc
 Music Disc 	music_disc_blocks 	Minecraft Music Disc
@@ -1376,12 +1308,7 @@ Music Disc 	music_disc_5 	Minecraft Music Disc
 Music Disc 	music_disc_pigstep 	Minecraft Music Disc
 Disc Fragment 5 	disc_fragment_5 	Minecraft Disc Fragment 5
 Any Skull 	#forge:heads 	Minecraft Any Skull
-Skeleton Skull 	skeleton_skull 	Minecraft Skeleton Skull
-Wither Skeleton Skull 	wither_skeleton_skull 	Minecraft Wither Skeleton Skull
 Zombie Head 	player_head 	Minecraft Zombie Head
-Head 	zombie_head 	Minecraft Head
-Creeper Head 	creeper_head 	Minecraft Creeper Head
-Dragon Head 	dragon_head 	Minecraft Dragon Head
 Firework Charge 	firework_star 	Minecraft Firework Charge
 Fireworks 	firework_rocket 	Minecraft Fireworks
 Honeycomb 	honeycomb 	Minecraft Honeycomb
