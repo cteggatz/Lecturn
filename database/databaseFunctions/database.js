@@ -105,8 +105,9 @@ module.exports = class database{
             }
         }
         
-        let rtrArray = [...players.entries()].sort((a, b) => {b[1] - a[1]});
-        console.log(rtrArray)
+        let rtrArray = [...players.entries()].sort((a, b) => {
+            return b[1] - a[1]
+        });
 
         return rtrArray
     }

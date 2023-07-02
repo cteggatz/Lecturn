@@ -51,7 +51,7 @@ module.exports = {
                     catagoryContributions.set(el.catagory, 1);
                 }
             }
-            console.log(catagoryContributions)
+            //console.log(catagoryContributions)
             const catagoryEmbed = new EmbedBuilder()
                 .setTitle("Spesific Data")
                 .setColor('F7D1CD')

@@ -470,10 +470,10 @@
     },
     {
       "name": "dirt",
-      "collected": false,
+      "collected": true,
       "collector": {
-        "name": null,
-        "date": null
+        "name": "teggatz",
+        "date": "[0/7/2023]"
       },
       "catagory": null
     },
@@ -11864,10 +11864,10 @@
     },
     {
       "name": "elder_guardian_head",
-      "collected": false,
+      "collected": true,
       "collector": {
-        "name": null,
-        "date": null
+        "name": "teggatz",
+        "date": "[6/15/2023]"
       },
       "catagory": "head"
     },
@@ -13412,10 +13412,10 @@
     },
     {
       "name": "elder_guardian",
-      "collected": true,
+      "collected": false,
       "collector": {
-        "name": "teggatz",
-        "date": "[6/15/2023]"
+        "name": null,
+        "date": null
       },
       "catagory": "mob"
     },
